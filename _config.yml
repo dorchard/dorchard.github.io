@@ -1,0 +1,7 @@
+name: Dominic Orchard
+highlighter: rouge
+collections:
+  pubs:
+    output: false
+  talks:
+    output: false
