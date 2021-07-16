@@ -6,12 +6,17 @@ sitemap:
     changefreq: monthly
 ---
 
-<img src="images/face.jpg" style="float:right;padding:10px;" width="30%" alt="Dominic Orchards' photo">
+{% assign collection = site.pubs | sort: "date" | group_by: "type" %}
 
-I am a Lecturer in the <a href="https://research.kent.ac.uk/programming-languages-systems/">Programming Languages and Systems</a> group at the
+<img src="images/face.jpg" style="float:right;padding:20px;" width="30%" alt="Dominic Orchard's photo">
+
+<h2>Dominic Orchard</h2>
+I am a lecturer in the <a href="https://research.kent.ac.uk/programming-languages-systems/">Programming Languages and Systems</a> group at the
 <a href="https://www.kent.ac.uk/computing">School of Computing</a>,
-<a href="http://www.kent.ac.uk"> University of Kent</a>
+<a href="http://www.kent.ac.uk"> University of Kent</a>.
 <br><br>
+My research is at the intersection of <strong>types</strong>, <strong>semantics</strong>,
+and <strong>logic</strong>, with a focus on <strong>programming languages</strong> and <strong>verification</strong>.
 
 #### Current Projects
 
