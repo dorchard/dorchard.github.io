@@ -1,0 +1,13 @@
+@article{Orchard_2020,
+   title={Unifying graded and parameterised monads},
+   volume={317},
+   ISSN={2075-2180},
+   url={http://dx.doi.org/10.4204/EPTCS.317.2},
+   DOI={10.4204/eptcs.317.2},
+   journal={Electronic Proceedings in Theoretical Computer Science},
+   publisher={Open Publishing Association},
+   author={Orchard, Dominic and Wadler, Philip and Eades, Harley},
+   year={2020},
+   month={May},
+   pages={18–38}
+}

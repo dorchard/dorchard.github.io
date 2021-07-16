@@ -1,3 +1,34 @@
-a {
-  color: 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+  text-rendering: optimizelegibility;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+body {
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: regular;
+  font-size: 12pt;
+  line-height: 1.5em;
+  color: #222;
+  
+  /* On smaller screens, use less padding and the whole width */
+  margin: 0 auto;
+}
+
+.list-group {
+  border: 0;
+}
+
+.list-group-item {
+  border: 0;
+}
+
+strong {
+  color: #555;
+}
+
+.note {
+  color: #bc0374;
+  font-weight: 400;
 }

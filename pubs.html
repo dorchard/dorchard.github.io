@@ -20,8 +20,8 @@ sitemap:
       {% for publication in pubs %}
 
         <li class="list-group-item">
-          {{ publication.authors | join: ', ' }}.
-          <strong>{{ publication.title }}</strong>.
+          <strong>{{ publication.title }}</strong><br />
+          {{ publication.authors | join: ', ' }}<br />
             {% if publication.journal %} {{ publication.journal }}, {% endif %}
             {% if publication.note %} {{ publication.note }}. {% endif %}
             {% if publication.volume %} volume {{ publication.volume }}. {% endif %}
@@ -61,7 +61,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'proceedings' %}
 
-    <h4>Papers in Proceedings <span class="badge">{{ group.items | size }}</span></h4>
+    <h4>Papers<span class="badge">{{ group.items | size }}</span></h4>
 
     <ul class="list-group">
 
@@ -115,7 +115,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'article' %}
 
-    <h4>Journal Papers <span class="badge">{{ group.items | size }}</span></h4>
+    <h4>Papers <span class="badge">{{ group.items | size }}</span></h4>
 
     <ul class="list-group">
 
@@ -167,9 +167,9 @@ sitemap:
 {% endfor %}
     
 {% for group in collection %}
-    {% if group.name == 'abstract' %}
+    {% if group.name == 'workshop' %}
 
-    <h4>Abstracts <span class="badge">{{ group.items | size }}</span></h4>
+    <h4>Extended abstracts <span class="badge">{{ group.items | size }}</span></h4>
       <ul class="list-group">
 
       {% assign pubs = group.items | sort: "date" | reverse %}        

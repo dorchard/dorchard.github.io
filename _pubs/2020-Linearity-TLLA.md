@@ -1,5 +1,5 @@
 ---
-type: abstract
+type: workshop
 authors:
   - Harley Eades III
   - Dominic Orchard
