@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/esop/MoonEO21,
+  author    = {Benjamin Moon and
+               Harley Eades III and
+               Dominic Orchard},
+  title     = {Graded Modal Dependent Type Theory},
+  booktitle = {Programming Languages and Systems - 30th European Symposium on Programming,
+               {ESOP} 2021, Held as Part of the European Joint Conferences on Theory
+               and Practice of Software, {ETAPS} 2021, Luxembourg City, Luxembourg,
+               March 27 - April 1, 2021, Proceedings},
+  pages     = {462--490},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-72019-3\_17},
+  doi       = {10.1007/978-3-030-72019-3\_17},
+  timestamp = {Fri, 14 May 2021 08:34:21 +0200},
+  biburl    = {https://dblp.org/rec/conf/esop/MoonEO21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

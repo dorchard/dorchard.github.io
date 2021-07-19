@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/esop/GaboardiKOS21,
+  author    = {Marco Gaboardi and
+               Shin{-}ya Katsumata and
+               Dominic Orchard and
+               Tetsuya Sato},
+  title     = {Graded Hoare Logic and its Categorical Semantics},
+  booktitle = {Programming Languages and Systems - 30th European Symposium on Programming,
+               {ESOP} 2021, Held as Part of the European Joint Conferences on Theory
+               and Practice of Software, {ETAPS} 2021, Luxembourg City, Luxembourg,
+               March 27 - April 1, 2021, Proceedings},
+  pages     = {234--263},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-72019-3\_9},
+  doi       = {10.1007/978-3-030-72019-3\_9},
+  timestamp = {Fri, 14 May 2021 08:34:22 +0200},
+  biburl    = {https://dblp.org/rec/conf/esop/GaboardiKOS21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

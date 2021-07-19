@@ -86,6 +86,9 @@ sitemap:
             {% if publication.resource.bibtex %}
 	      [<a href="{{ publication.resource.bibtex }}">Bibtex</a>]
             {% endif %}
+            {% if publication.resource.appendix %}
+	       [<a href="{{ publication.resource.appendix }}">Appendix</a>]
+            {% endif %}
             {% if publication.resource.slides %}
 	      [<a href="{{ publication.resource.slides }}">Slides</a>]
             {% endif %} 
@@ -158,6 +161,9 @@ sitemap:
                [<a href="{{ publication.resource.report-url }}">PDF ({{ publication.resource.report-note }})</a>]
             {% elsif publication.resource.type == 'pdf' %}
 	       [<a href="{{ publication.resource.pdf-url }}">PDF</a>]
+            {% endif %}
+            {% if publication.resource.appendix %}
+	       [<a href="{{ publication.resource.appendix }}">Appendix</a>]
             {% endif %}
           {% endif %}
         </li>

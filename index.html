@@ -70,8 +70,14 @@ Key funded projects that I am currently working on: <br />
 	          {% if publication.resource.pdf-url %}
 	          [<a href="{{ publication.resource.pdf-url}}">PDF</a>]
             {% endif %}
+            {% if publication.resource.doi-pdf %}
+	          [<a href="{{ publication.resource.doi-pdf}}">Publisher PDF</a>]
+            {% endif %}
+            {% if publication.resource.appendix %}
+	       [<a href="{{ publication.resource.appendix }}">Appendix</a>]
+            {% endif %}
             {% if publication.resource.bibtex %}
-            [<a href="assets/bibtex/{{ publication.resource.bibtex }}.txt">BibTeX</a>]
+            <small>(<a href="assets/bibtex/{{ publication.resource.bibtex }}.txt" class="bibtex">BibTeX</a>)</small>
             {% endif %}
           {% endif %}
         </li>
