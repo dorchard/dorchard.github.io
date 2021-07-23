@@ -1,0 +1,15 @@
+@inproceedings{DBLP:conf/birthday/MycroftOP16,
+  author    = {Alan Mycroft and
+               Dominic A. Orchard and
+               Tomas Petricek},
+  title     = {Effect Systems Revisited - Control-Flow Algebra and Semantics},
+  booktitle = {Semantics, Logics, and Calculi - Essays Dedicated to Hanne Riis Nielson
+               and Flemming Nielson on the Occasion of Their 60th Birthdays},
+  pages     = {1--32},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/978-3-319-27810-0\_1},
+  doi       = {10.1007/978-3-319-27810-0\_1},
+  timestamp = {Fri, 27 Mar 2020 08:59:04 +0100},
+  biburl    = {https://dblp.org/rec/conf/birthday/MycroftOP16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

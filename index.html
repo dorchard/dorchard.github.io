@@ -8,39 +8,80 @@ sitemap:
 
 {% assign collection = site.pubs | sort: "date" | group_by: "type" %}
 
-<img src="images/face.jpg" style="float:right;padding:20px;" width="30%" alt="Dominic Orchard's photo">
+<div id='rightpane'>
+  <img src="images/face.jpg" style='width:100%' alt="Dominic Orchard's photo">
+  <br /><br />
+  <img src="images/kent-thumb.png" alt="University of Kent logo" style="width:50%;margin:auto" />
+  <br /><br />
+  <div id='links-out'>
+    <strong>E-mail: </strong><br /><a href="mailto:d.a.orchard@kent.ac.uk">d.a.orchard@kent.ac.uk</a><br /><br />
+    <strong>Office:</strong><br/> <a href="https://www.cs.kent.ac.uk/rooms/SW108.gif">SW108</a>, <a href="https://www.google.com/maps/place/Cornwallis+South+%26+South+West,+Canterbury+CT2+7NF/@51.2986354,1.068569,17z/data=!4m5!3m4!1s0x47decba7c6b71b0b:0xe2453d348bfa18a1!8m2!3d51.2985461!4d1.0701504?hl=en">Cornwallis South</a>, University of Kent, Canterbury, UK<br /><br />
+    <strong>Find me on: </strong><br />
+  <span><a href="http://twitter.com/dorchard"><img src="images/twitter-thumb.png"/>Twitter</a></span><br />
+  <span><a href="http://github.com/dorchard"><img src="images/github-thumb.png" />GitHub</a></span><br />
+  <span><a href="https://dblp.org/pid/12/7603.html"><img src="images/dblp-thumb.png"/>DBLP </a></span><br />
+  <span><a href="https://dorchard.blog"><img src="images/wordpress-thumb.png"/>Blog</a></span><br />
+  <span><a href="https://www.kent.ac.uk/computing/people/3074/orchard-dominic"><img src="images/kent-thumb.png" />University of Kent</a></span><br />
+  <span><a href="https://scholar.google.com/citations?user=vEsF_IwAAAAJ&hl=en&oi=ao"><img src="images/google-scholar-thumb.png"/>Google Scholar</a></span><br />
+  <span><a href="https://orcid.org/0000-0002-7058-7842"><img src="images/orcid-thumb.png" />ORCID</a></span><br />
+</div>  
+</div>
 
-
-<h2 style='margin-bottom:0.5em;'>Dominic Orchard</h2>
+<div id='leftpane'>
+<h1 style='margin-bottom:0.5em;'>Dominic Orchard</h1>
 Lecturer in the
 <a href="https://research.kent.ac.uk/programming-languages-systems/">Programming Languages and Systems</a> group<br />
 <a href="https://www.kent.ac.uk/computing">School of Computing</a>, <a href="http://www.kent.ac.uk"> University of Kent</a>.
-<br><br>
+<br /><br />
 My research is at the intersection of <strong>types</strong>, <strong>semantics</strong>,
 and <strong>logic</strong>, with a focus on <strong>programming languages</strong> and <strong>verification</strong>.
 <br /><br />
-<div id='links-out'>
-  <strong>Find me on: </strong>
-<span><a href="http://twitter.com/dorchard">Twitter</a></span> |
-<span><a href="http://github.com/dorchard">GitHub</a></span> |
-<span><a href="https://dblp.org/pid/12/7603.html">DBLP</a></span>
-</div>
 
-<h3>Projects</h3>
+<h3 style='margin-top:0.25em'>Projects</h3>
 Key funded projects that I am currently working on: <br />
   <ul>
-    <li><a href="https://granule-project.github.io/">
+    <li><a href="https://granule-project.github.io/" class='proj'>
   <img style="height:1.5em;" src="assets/gr-blue.png">
   Granule
     - Capturing program properties via graded (modal) types</a> 
   </li>
   <li>
-    <a href="http://camfort.github.io">
+    <a href="http://camfort.github.io" class='proj'>
     <img style="height:1.5em;" src="https://camfort.github.io/camfort.png">
     - Verification and static analysis for computational science
   </a>
   </li>
 </ul>
+
+<table class='people'>
+  <tr>
+    <td>
+      <h4>PhD Students</h4>
+    </td>
+    <td>
+      <h4>Postdocs and Research Assistants</h4>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<ul>
+  <li><a href="https://www.jackohughes.com/">Jack Hughes</a></li>
+  <li><a href="https://github.com/buggymcbugfix">Vilem Liepelt</a></li>
+  <li><a href="https://starsandspira.ls/">Daniel Marshall</a></li>
+  <li><a href="https://github.com/GuiltyDolphin">Ben Moon</a></li>
+  <li><a href="https://research.kent.ac.uk/programming-languages-systems/person/timotej-tomandl/">Timo Tomandl</a></li>
+</ul>
+</td>
+<td>
+
+<ul>
+  <li><a href="https://raehik.github.io/">Ben Orchard</a></li>
+  <li><a href="http://recurial.com/">Michael Vollmer</a></li>
+  <li><a href="https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/">Tori Vollmer</a></li>
+</ul>
+
+</td></tr>
+</table>
 
 
 <h3>Recent Publications</h3>
@@ -88,8 +129,6 @@ Key funded projects that I am currently working on: <br />
 
 <h3>Service</h3>
 
-<h3>Students</h3>
-
-<h4>Contact Information</h4>
+</div>
 
 

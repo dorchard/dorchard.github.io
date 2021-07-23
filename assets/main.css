@@ -5,6 +5,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+h3, h4 {
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+}
+
 body {
   font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: regular;
@@ -33,6 +38,31 @@ strong {
   font-weight: 400;
 }
 
-.bibtex {
+.bibtex, .proj {
   color: #458
+}
+
+.people td {
+  padding-right: 50px;
+}
+
+#links-out img {
+  width: 1.1em;
+  margin-top: -2px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#links-out {
+  font-size: larger;
+}
+
+#rightpane {
+  width: 20vw;
+  float:right
+}
+
+#leftpane {
+  width: 50vw;
+  float:left;
 }

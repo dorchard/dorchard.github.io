@@ -1,0 +1,10 @@
+@phdthesis{DBLP:phd/ethos/Orchard14,
+  author    = {Dominic A. Orchard},
+  title     = {Programming contextual computations},
+  school    = {University of Cambridge, {UK}},
+  year      = {2014},
+  url       = {http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.708000},
+  timestamp = {Tue, 09 Apr 2019 18:22:23 +0200},
+  biburl    = {https://dblp.org/rec/phd/ethos/Orchard14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
