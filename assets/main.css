@@ -57,12 +57,15 @@ strong {
   font-size: larger;
 }
 
+#outer {
+  display: flex;
+}
+
+
 #rightpane {
-  width: 20vw;
-  float:right
+  flex-shrink: 2;
 }
 
 #leftpane {
-  width: 50vw;
-  float:left;
+  margin-right:20px;
 }
