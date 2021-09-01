@@ -1,0 +1,14 @@
+@inproceedings{DBLP:conf/oopsla/OrchardR13,
+  author    = {Dominic A. Orchard and
+               Andrew C. Rice},
+  title     = {Upgrading fortran source code using automatic refactoring},
+  booktitle = {Proceedings of the 2013 {ACM} Workshop on Refactoring Tools, WRT@SPLASH
+               2013, Indianapolis, IN, USA, October 27, 2013},
+  pages     = {29--32},
+  year      = {2013},
+  url       = {https://doi.org/10.1145/2541348.2541356},
+  doi       = {10.1145/2541348.2541356},
+  timestamp = {Mon, 12 Jul 2021 15:34:15 +0200},
+  biburl    = {https://dblp.org/rec/conf/oopsla/OrchardR13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

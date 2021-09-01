@@ -1,0 +1,9 @@
+@article{orchard2009mucell,
+  title={$\mu$Cell-interdisciplinary research in modelling and simulation of cell spatial behaviour},
+  author={Orchard, Dominic and Gover, Jonathan and Herrington, Lee Lewis and Lohr, James and Stead, Duncan and Young, Cathy and Kalvala, Sara},
+  journal={Reinvention: a journal of undergraduate research},
+  volume={2},
+  number={1},
+  year={2009},
+  publisher={University of Warwick, Institute of Advanced Teaching and Learning}
+}
