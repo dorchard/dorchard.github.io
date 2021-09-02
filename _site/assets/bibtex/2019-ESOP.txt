@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/esop/XiaOW19,
+  author    = {Li{-}yao Xia and
+               Dominic Orchard and
+               Meng Wang},
+  title     = {Composing Bidirectional Programs Monadically},
+  booktitle = {Programming Languages and Systems - 28th European Symposium on Programming,
+               {ESOP} 2019, Held as Part of the European Joint Conferences on Theory
+               and Practice of Software, {ETAPS} 2019, Prague, Czech Republic, April
+               6-11, 2019, Proceedings},
+  pages     = {147--175},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-17184-1\_6},
+  doi       = {10.1007/978-3-030-17184-1\_6},
+  timestamp = {Fri, 09 Apr 2021 18:50:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/esop/XiaOW19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

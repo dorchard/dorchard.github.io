@@ -1,0 +1,17 @@
+@article{DBLP:journals/cse/ContrastinRDO16,
+  author    = {Mistral Contrastin and
+               Andrew C. Rice and
+               Matthew Danish and
+               Dominic A. Orchard},
+  title     = {Units-of-Measure Correctness in Fortran Programs},
+  journal   = {Comput. Sci. Eng.},
+  volume    = {18},
+  number    = {1},
+  pages     = {102--107},
+  year      = {2016},
+  url       = {https://doi.org/10.1109/MCSE.2016.17},
+  doi       = {10.1109/MCSE.2016.17},
+  timestamp = {Thu, 12 Mar 2020 15:57:34 +0100},
+  biburl    = {https://dblp.org/rec/journals/cse/ContrastinRDO16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

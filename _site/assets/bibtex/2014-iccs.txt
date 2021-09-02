@@ -1,0 +1,13 @@
+@inproceedings{DBLP:conf/iccS/OrchardR14,
+  author    = {Dominic A. Orchard and
+               Andrew C. Rice},
+  title     = {A Computational Science Agenda for Programming Language Research},
+  booktitle = {Proceedings of the International Conference on Computational Science,
+               {ICCS} 2014, Cairns, Queensland, Australia, 10-12 June, 2014},
+  pages     = {713--727},
+  year      = {2014},
+  url       = {https://doi.org/10.1016/j.procs.2014.05.064},
+  doi       = {10.1016/j.procs.2014.05.064},
+  biburl    = {https://dblp.org/rec/conf/iccS/OrchardR14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

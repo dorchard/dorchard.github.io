@@ -1,0 +1,14 @@
+@inproceedings{DBLP:conf/oopsla/Orchard11,
+  author    = {Dominic A. Orchard},
+  title     = {The four Rs of programming language design},
+  booktitle = {{ACM} Symposium on New Ideas in Programming and Reflections on Software,
+               Onward! 2011, part of {SPLASH} '11, Portland, OR, USA, October 22-27,
+               2011},
+  pages     = {157--162},
+  year      = {2011},
+  url       = {https://doi.org/10.1145/2089131.2089138},
+  doi       = {10.1145/2089131.2089138},
+  timestamp = {Mon, 12 Jul 2021 15:34:15 +0200},
+  biburl    = {https://dblp.org/rec/conf/oopsla/Orchard11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

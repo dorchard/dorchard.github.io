@@ -1,0 +1,6 @@
+@article{orchard2012categorical,
+  title={Categorical programming for data types with restricted parametricity},
+  author={Orchard, Dominic and Mycroft, Alan},
+  journal={Unpublished note. Available online at http://dorchard.github.io},
+  year={2012}
+}

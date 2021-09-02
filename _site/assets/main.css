@@ -1,0 +1,71 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+  text-rendering: optimizelegibility;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+h3, h4 {
+  margin-top: 0.5em;
+  margin-bottom: 0.3em;
+}
+
+body {
+  font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: regular;
+  font-size: 12pt;
+  line-height: 1.5em;
+  color: #222;
+  
+  /* On smaller screens, use less padding and the whole width */
+  margin: 0 auto;
+}
+
+.list-group {
+  border: 0;
+}
+
+.list-group-item {
+  border: 0;
+}
+
+strong {
+  color: #555;
+}
+
+.note {
+  color: #bc0374;
+  font-weight: 400;
+}
+
+.bibtex, .proj {
+  color: #458
+}
+
+.people td {
+  padding-right: 50px;
+}
+
+#links-out img {
+  width: 1.1em;
+  margin-top: -2px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#links-out {
+  font-size: larger;
+}
+
+#outer {
+  display: flex;
+}
+
+
+#rightpane {
+  flex-shrink: 2;
+}
+
+#leftpane {
+  margin-right:20px;
+}
