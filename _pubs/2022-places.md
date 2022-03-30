@@ -10,5 +10,5 @@ date: 2022-03-30
 resource:
   type: pdf
   pdf-url: https://arxiv.org/pdf/2203.12875.pdf
-  bibtex: 2022-PLACES
+  bibtex: 2022-places
 ---
