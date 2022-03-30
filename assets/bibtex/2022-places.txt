@@ -1,0 +1,12 @@
+@article{Marshall_2022,
+	doi = {10.4204/eptcs.356.1},
+	url = {https://doi.org/10.4204%2Feptcs.356.1},
+	year = 2022,
+	month = {mar},
+	publisher = {Open Publishing Association},
+	volume = {356},
+	pages = {1--11},
+	author = {Daniel Marshall and Dominic Orchard},
+	title = {Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types},
+	journal = {Proceedings of PLACES 2022, Electronic Proceedings in Theoretical Computer Science}
+}
