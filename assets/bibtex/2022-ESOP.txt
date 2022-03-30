@@ -1,0 +1,15 @@
+@InProceedings{10.1007/978-3-030-99336-8_13,
+author="Marshall, Daniel
+and Vollmer, Michael
+and Orchard, Dominic",
+editor="Sergey, Ilya",
+title="Linearity and Uniqueness: An Entente Cordiale",
+booktitle="Programming Languages and Systems",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="346--375",
+abstract="Substructural type systems are growing in popularity because they allow for a resourceful interpretation of data which can be used to rule out various software bugs. Indeed, substructurality is finally taking hold in modern programming; Haskell now has linear types roughly based on Girard's linear logic but integrated via graded function arrows, Clean has uniqueness types designed to ensure that values have at most a single reference to them, and Rust has an intricate ownership system for guaranteeing memory safety. But despite this broad range of resourceful type systems, there is comparatively little understanding of their relative strengths and weaknesses or whether their underlying frameworks can be unified. There is often confusion about whether linearity and uniqueness are essentially the same, or are instead `dual' to one another, or somewhere in between. This paper formalises the relationship between these two well-studied but rarely contrasted ideas, building on two distinct bodies of literature, showing that it is possible and advantageous to have both linear and unique types in the same type system. We study the guarantees of the resulting system and provide a practical implementation in the graded modal setting of the Granule language, adding a third kind of modality alongside coeffect and effect modalities. We then demonstrate via a benchmark that our implementation benefits from expected efficiency gains enabled by adding uniqueness to a language that already has a linear basis.",
+isbn="978-3-030-99336-8"
+}
+
