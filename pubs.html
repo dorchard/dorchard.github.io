@@ -85,7 +85,7 @@ sitemap:
           {% if publication.note %}<i>{{ publication.note }}.</i>{% endif %}
           {% if publication.resource %}
             {% if publication.resource.bibtex %}
-	            [<a href="{{ publication.resource.bibtex }}">Bibtex</a>]
+	            [<a href="assets/bibtex/{{ publication.resource.bibtex }}.txt">Bibtex</a>]
             {% endif %}
             {% if publication.resource.slides %}
 	            [<a href="{{ publication.resource.slides }}">Slides</a>]
