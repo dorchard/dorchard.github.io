@@ -12,7 +12,10 @@ sitemap:
   {% for talk in collection %}
         <li class="list-group-item">          
           <strong>{{ talk.title }}</strong>.
-          {% if talk.venue %} {{ talk.venue }}. {% endif %}
+          {% if talk.event-url %}<a href="{{ talk.event-url}}">{% endif %}
+	  {% if talk.venue %} {{ talk.venue }}. {% endif %}
+          {% if talk.event-url %}</a>{% endif %}
+	  
           {% if talk.year %} {{ talk.year }}. {% endif %}
           {% if talk.slides %}
 	  [<a href="{{ talk.slides }}">Slides</a>]
