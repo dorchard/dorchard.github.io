@@ -7,7 +7,7 @@ Some videos of talks I have given about my work in various different venues.
 
 #### Introduction to the Institute of Computing for Climate Science at the Cambridge Centre for Data-Drive Discovery collaborations day (Jan, 2021)
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=w9zl_cqOv4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/w9zl_cqOv4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 #### Huawei Programming Language Technology Salon | Issue 14: Graded (Modal) Types for Fine-grained Program Reasoning (May 2022)
