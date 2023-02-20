@@ -1,10 +1,7 @@
 ---
-layout: page
-title: Talks & Videos
+layout: default
+title: Videos
 ---
-
-Videos
-----------------------
 
 Some videos of talks I have given about my work in various different venues.
 
