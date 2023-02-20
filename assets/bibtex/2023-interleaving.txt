@@ -1,0 +1,15 @@
+@article{DBLP:journals/programming/BocchiOV23,
+  author    = {Laura Bocchi and
+               Dominic Orchard and
+               A. Laura Voinea},
+  title     = {A Theory of Composing Protocols},
+  journal   = {Art Sci. Eng. Program.},
+  volume    = {7},
+  number    = {2},
+  year      = {2023},
+  url       = {https://doi.org/10.22152/programming-journal.org/2023/7/6},
+  doi       = {10.22152/programming-journal.org/2023/7/6},
+  timestamp = {Fri, 10 Feb 2023 17:06:34 +0100},
+  biburl    = {https://dblp.org/rec/journals/programming/BocchiOV23.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
