@@ -32,6 +32,10 @@ Some videos of talks I have given about my work in various different venues.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7r4H1vWIOVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+#### MSFP 2020 - Unifying graded and parameterised monads
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nWArZM6jrmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ##### [podcast] The Typechecker Ep. 2: Granule
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rqArTpY_kNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
