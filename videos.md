@@ -27,6 +27,10 @@ Some videos of talks I have given about my work in various different venues.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6yswyRQGsRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
+### ESOP 2021 - Graded Modal Dependent Type Theory
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mJLNjd4hIqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### End of the 2020 review for the Granule project
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7r4H1vWIOVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,3 +47,15 @@ Some videos of talks I have given about my work in various different venues.
 ##### CodeMesh London 2019
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2HOtpcrmXMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+
+#### POPL 2019 - Effects as sessions, sessions as effects
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9lh6lv9dKT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### ICFP 2016 - Combining effects and coeffects via grading
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/l1ZNMT3fQCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Haskell 2014 - Embedding effect systems in Haskell
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EVqsfQHS8R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
