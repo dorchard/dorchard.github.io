@@ -25,6 +25,10 @@ body {
   border: 0;
 }
 
+li {
+    margin-bottom: 0.5em;
+}
+
 .list-group-item {
   border: 0;
 }
