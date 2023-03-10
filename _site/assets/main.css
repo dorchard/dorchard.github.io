@@ -33,6 +33,10 @@ strong {
   color: #555;
 }
 
+li {
+    margin-bottom: 1em;
+}
+
 .note {
   color: #bc0374;
   font-weight: 400;
