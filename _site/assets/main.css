@@ -33,9 +33,14 @@ strong {
   color: #555;
 }
 
-li {
+ul.front {
+    margin-top: 1em;
+}
+
+ul.front li {
     margin-bottom: 1em;
 }
+
 
 .note {
   color: #bc0374;
