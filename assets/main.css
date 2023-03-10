@@ -25,7 +25,11 @@ body {
   border: 0;
 }
 
-li {
+ul.front {
+    margin-top: 1em;
+}
+
+ul.front li {
     margin-bottom: 1em;
 }
 
