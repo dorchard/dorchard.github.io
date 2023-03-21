@@ -131,9 +131,7 @@ sitemap:
           <strong>{{ publication.title }}</strong>.          
           {% if publication.publisher %}{{ publication.publisher }}.{% endif %}
           {% if publication.note %}<i>{{ publication.note }}.</i>{% endif %}
-          {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.
-	  {% elsif publication.year %} {{ publication.year }}.
-	  {% endif %}          
+          {% if publication.year %} {{ publication.year }}. {% endif %}          
           {% if publication.resource %}
             {% if publication.resource.bibtex %}
               [<a href="assets/bibtex/{{ publication.resource.bibtex }}.txt">Bibtex</a>]
