@@ -16,7 +16,9 @@ sitemap:
 	  {% if talk.venue %} {{ talk.venue }}. {% endif %}
           {% if talk.event-url %}</a>{% endif %}
 	  
+	  {% if talk.date %} {{ talk.date }}. {% else %}
           {% if talk.year %} {{ talk.year }}. {% endif %}
+		{% endif %}
           {% if talk.slides %}
 	  [<a href="{{ talk.slides }}">Slides</a>]
           {% endif %}
