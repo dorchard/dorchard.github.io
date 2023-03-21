@@ -77,8 +77,7 @@ sitemap:
             {% if publication.volume %} volume {{ publication.volume }}. {% endif %}
             {% if publication.number %} number {{ publication.number }}. {% endif %}
             {% if publication.pages %} Pages {{ publication.pages }}. {% endif %}
-            {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.
-	            {% elsif publication.year %} {{ publication.year }}.
+            {% if publication.year %} {{ publication.year }}.
 	          {% endif %}          
           {% endif %}
           {% if publication.publisher %}{{ publication.publisher }}.{% endif %}
