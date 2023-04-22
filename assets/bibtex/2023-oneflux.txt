@@ -1,0 +1,10 @@
+@inproceedings{Pastorello2023,
+    author = {Pastorello, Gilberto and Trotta, Carlo and Ribeca, Alessio and Beattie, Keith and Ngo, Sy-Toan and Chu, Housen and Cheah, You-Wei and Christianson, Danielle and Nicolini, Giacomo and Dengel, Sigrid and Polidori, Diego and Isaac, Peter and Archer, Matthew and Orchard, Dominic and Agarwal, Deb and Biraud, Sebastien and Torn, Margaret and Papale, Dario},
+    title = {{Fostering collaboration through improved software development practices for the ONEFlux eddy covariance data processing pipeline}},
+    booktitle = {EGU General Assembly 2023},
+    year = {2023},
+    address = {Vienna, Austria},
+    url = {https://doi.org/10.5194/egusphere-egu23-11187},
+    doi = {10.5194/egusphere-egu23-11187},
+    note = {EGU23-11187}
+}
