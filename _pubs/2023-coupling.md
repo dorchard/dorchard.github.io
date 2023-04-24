@@ -1,5 +1,5 @@
 ---
-type: article
+type: workshop
 authors:
   - Jack Atkinson
   - Simon Clifford
@@ -12,13 +12,12 @@ authors:
   - Aditi Sheshadri
   - Y. Qiang Sun
   - Minah Yang
-title: "Reducing the overhead of coupled ML models between Python
-and Fortran: an application to Gravity Wave Parameterizations"
+title: "Reducing the overhead of coupled ML models between Python and Fortran: an application to Gravity Wave Parameterizations"
 venue: "Climate Informatics 2023"
 note: "Presented at Climate Informatics 2023"
 date: 2023-04-20
 resource:
   type: pdf
-  pdf-url: https://arxiv.org/pdf/2203.02461v2.pdf
+  pdf-url: https://cambridge-iccs.github.io/climate-informatics-2023/assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf
   bibtex: 2023-coupling
 ---

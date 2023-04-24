@@ -2,5 +2,6 @@
     author = {Atkinson, Jack and Clifford, Simon and Connelly, David and Edsall, Chris and Elafrou, Athena and Gerber, Ed and Mansfield, Laura and Orchard, Dominic and Sheshadri, Aditi and Sun, Y. Qiang and Yang, Minah},
     title = {Reducing the overhead of coupled ML models between Python and Fortran: an application to Gravity Wave Parameterizations},
     booktitle = {Climate Informatics 2023: Extended Abstracts},
+    note = {\url{https://cambridge-iccs.github.io/climate-informatics-2023/assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf}},
     year = {2023}
 }
