@@ -1,0 +1,6 @@
+@inproceedings{Atkinson2023,
+    author = {Atkinson, Jack and Clifford, Simon and Connelly, David and Edsall, Chris and Elafrou, Athena and Gerber, Ed and Mansfield, Laura and Orchard, Dominic and Sheshadri, Aditi and Sun, Y. Qiang and Yang, Minah},
+    title = {Reducing the overhead of coupled ML models between Python and Fortran: an application to Gravity Wave Parameterizations},
+    booktitle = {Climate Informatics 2023: Extended Abstracts},
+    year = {2023}
+}
