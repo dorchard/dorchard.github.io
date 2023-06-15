@@ -12,6 +12,10 @@ iframe {
 
 Some videos of talks I have given about my work in various different venues.
 
+### Lightweight code verification for science, ICCS-VESRI Journal Club (June, 2023)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UVmWrp2YjCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### Introduction to the Institute of Computing for Climate Science at the Cambridge Centre for Data-Drive Discovery collaborations day (Jan, 2023)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/w9zl_cqOv4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
