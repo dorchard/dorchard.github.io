@@ -1,0 +1,12 @@
+@inproceedings{hughes:lirmm-03271465,
+  TITLE = {{Linear Exponentials as Graded Modal Types}},
+  AUTHOR = {Hughes, Jack and Marshall, Daniel and Wood, James and Orchard, Dominic},
+  URL = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-03271465},
+  BOOKTITLE = {{5th International Workshop on Trends in Linear Logic and Applications (TLLA 2021)}},
+  ADDRESS = {Rome (virtual), Italy},
+  YEAR = {2021},
+  MONTH = Jun,
+  PDF = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-03271465/file/TLLA_2021_paper_11.pdf},
+  HAL_ID = {lirmm-03271465},
+  HAL_VERSION = {v1},
+}
