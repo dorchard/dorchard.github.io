@@ -9,9 +9,9 @@ noindex: true
 
 # MycroftFest call for papers
 
-We solicit contributions for a festschrift in honour of the work of [Professor Alan Mycroft](https://www.cl.cam.ac.uk/~am21/) on the occasion of his retirement from the University of Cambridge.  Alan is well-known for his many pioneering contributions to programming language theory and applications, both design and implementation, ranging from compilation and optimization techniques and type systems, to parallel, concurrent and dataflow programming, but also for his work as a co-founder of the Raspberry Pi Foundation. To those who worked with Alan, he is renowned for his unstoppable enthusiasm about any challenging problem related to programming and computers, making him an inspiring teacher, mentor, and collaborator.
+<img src="images/am2022.jpg" style="float:right; max-height: 200px; margin: 15px;" />
 
-<img src="images/am2022.jpg" style="float:right; max-height: 300px;" />
+We solicit contributions for a festschrift in honour of the work of [Professor Alan Mycroft](https://www.cl.cam.ac.uk/~am21/) on the occasion of his retirement from the University of Cambridge.  Alan is well-known for his many pioneering contributions to programming language theory and applications, both design and implementation, ranging from compilation and optimization techniques and type systems, to parallel, concurrent and dataflow programming, but also for his work as a co-founder of the Raspberry Pi Foundation. To those who worked with Alan, he is renowned for his unstoppable enthusiasm about any challenging problem related to programming and computers, making him an inspiring teacher, mentor, and collaborator.
 
 To celebrate Alan's retirement, we solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work.
 
