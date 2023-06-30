@@ -30,7 +30,7 @@ update:
 
 We intend to publish the festschrift (publishers to be confirmed). The submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
 
-More details can be found here: https://dorchard.github.io/mycroftfest
+More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest)
 
 ## Important dates
 
