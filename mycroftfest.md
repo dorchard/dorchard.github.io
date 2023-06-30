@@ -32,10 +32,10 @@ More details can be found here: https://dorchard.github.io/mycroftfest
 
 ## Important dates
 
-* 1st August - Expression of Interest
-* 1st September - Submission
+* 1st August - Fill-in Expression of Interest
+* 1st September - Submission for contributions
 * 22nd October - Notification
-* 29th November - Camera ready (for the website)
+* 29th November - Camera ready
 * 1st December - Event
 
 
