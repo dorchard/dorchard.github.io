@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: MycroftFest - Festschrift to celebrate the work of Prof. Alan Mycroft
+title: Festschrift to celebrate the work of Prof. Alan Mycroft
 sitemap:
     priority: 0.9
     changefreq: monthly
@@ -15,7 +15,7 @@ To celebrate Alan's retirement, we solicit original contributions in all areas o
 
 We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely. We are however also trying to keep this a *secret* (for as long as possible) so please do keep this off any public lists for now!
 
-There will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions. If you would to contribute to the festschrift but are unable to give a talk, that is also fine. Depending on submission rates, we may accept proposals to give a talk even without a festschrift submission.
+There will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions.  Depending on submission rates, we may accept proposals to give a talk even without a festschrift submission.
 
 ## Submission, evaluation, and participation
 
