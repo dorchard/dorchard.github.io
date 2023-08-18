@@ -32,9 +32,8 @@ We intend to publish the festschrift (publishers to be confirmed). The submissio
 
 More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest)
 
-## Important dates
+## Important dates (revised)
 
-* ~~ 1st August - Fill-in Expression of Interest (so we can get a list of people interested) ~~
 * 1st October - Deadline for submissions of talk/paper abstracts [EasyChair]()
 * 14th October - Notification for talk abstracts
 * 5th November - Deadline for paper drafts to compile informal proceedings
