@@ -7,7 +7,7 @@ sitemap:
 noindex: true
 ---
 
-# MycroftFest call for papers
+# MycroftFest call for contributions
 
 <img src="images/am2022.jpg" style="float:right; max-height: 200px; margin: 15px;" />
 
@@ -34,11 +34,11 @@ More details can be found here: [https://dorchard.github.io/mycroftfest](https:/
 
 ## Important dates (revised)
 
-* 1st October - Deadline for submissions of talk/paper abstracts [EasyChair]()
-* 14th October - Notification for talk abstracts
-* 5th November - Deadline for paper drafts to compile informal proceedings
-* 1st December - Event in Cambridge and hybrid
-* 31st January - post-proceedings Festschrift deadline.
+* 1st October - Deadline for submissions of talk/paper abstracts [(EasyChair link imminent)]()
+* 14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)
+* 5th November - Deadline for any paper drafts to compile informal proceedings
+* 1st December - Event in Cambridge (FW26, Department of Computer Science and Technology) and hybrid
+* 31st January - post-proceedings Festschrift deadline
 
 ## Organisers and Festschrift editors
 
