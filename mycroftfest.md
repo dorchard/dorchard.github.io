@@ -22,8 +22,7 @@ There will be a hybrid event in the early winter (1st December) with talks of va
 ## Submission and participation
 
 If you are interested in submitting and/or attending then we would
-appreciate you filling out this short expression of interest form (by
-August 1st) so we can keep track of everyone and send the occasional
+appreciate you filling out this short expression of interest form so we can keep track of everyone and send the occasional
 update:
 
 [Expressions of interest form](https://forms.gle/A2hZ6wn8NV1QQhmd7)
@@ -36,7 +35,7 @@ We intend to publish the festschrift (publishers to be confirmed). The submissio
 
 * 1st October - Deadline for submissions of talk abstracts or talk+paper abstracts [(EasyChair link imminent)]()
 * 14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)
-* 5th November - Deadline for any paper drafts to compile informal proceedings
+* 5th November - Deadline for any paper drafts to compile informal proceedings (though if you would like to submit to the Festschrift you need not submit a draft at this point).
 * 1st December - Event in Cambridge (FW26, Department of Computer Science and Technology) and hybrid
 * 31st January - post-proceedings Festschrift deadline
 
