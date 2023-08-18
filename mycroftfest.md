@@ -34,7 +34,7 @@ We intend to publish the festschrift (publishers to be confirmed). The submissio
 
 ## Important dates (revised)
 
-* 1st October - Deadline for submissions of talk/paper abstracts [(EasyChair link imminent)]()
+* 1st October - Deadline for submissions of talk abstracts or talk+paper abstracts [(EasyChair link imminent)]()
 * 14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)
 * 5th November - Deadline for any paper drafts to compile informal proceedings
 * 1st December - Event in Cambridge (FW26, Department of Computer Science and Technology) and hybrid
