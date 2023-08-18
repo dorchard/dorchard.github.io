@@ -19,7 +19,7 @@ We are extending this invite to all of Alan's previous students, colleagues, and
 
 There will be a hybrid event in the early winter (1st December) with talks of varying length. There will then be a formal post-proceedings as a Festschrift for Alan, though those contributing talks to the event need not also submit to Festschrift (and vice versa).
 
-## Submission, evaluation, and participation
+## Submission and participation
 
 If you are interested in submitting and/or attending then we would
 appreciate you filling out this short expression of interest form (by
@@ -30,7 +30,7 @@ update:
 
 We intend to publish the festschrift (publishers to be confirmed). The submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
 
-More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest)
+<!-- More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest) -->
 
 ## Important dates (revised)
 
