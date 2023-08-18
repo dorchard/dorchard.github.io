@@ -42,6 +42,6 @@ We intend to publish the festschrift (publishers to be confirmed). The submissio
 
 ## Organisers and Festschrift editors
 
-- Dominic Orchard, University of Kent and University of Cambridge (dao29@cam.ac.uk)
-- Tomas Petricek, Charles University (tomas@tomasp.net)
-- Jeremy Singer, University of Glasgow (Jeremy.Singer@glasgow.ac.uk)
+- Dominic Orchard, University of Kent and University of Cambridge ([dao29@cam.ac.uk](mailto:dao29@cam.ac.uk))
+- Tomas Petricek, Charles University ([tomas@tomasp.net](mailto:tomas@tomasp.net))
+- Jeremy Singer, University of Glasgow ([Jeremy.Singer@glasgow.ac.uk](mailto:Jeremy.Singer@glasgow.ac.uk))
