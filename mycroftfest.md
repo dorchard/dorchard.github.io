@@ -17,7 +17,7 @@ To celebrate Alan's retirement, we solicit original contributions in all areas o
 
 We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely. We are however also trying to keep this a *secret* (for as long as possible) so please do keep this off any public lists for now!
 
-There will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions.  Depending on submission rates, we may accept proposals to give a talk even without a festschrift submission.
+There will be a hybrid event in the early winter (1st December) with talks of varying length. There will then be a formal post-proceedings as a Festschrift for Alan, though those contributing talks to the event need not also submit to Festschrift (and vice versa).
 
 ## Submission, evaluation, and participation
 
@@ -34,14 +34,14 @@ More details can be found here: [https://dorchard.github.io/mycroftfest](https:/
 
 ## Important dates
 
-* 1st August - Fill-in Expression of Interest
-* 1st September - Submission for contributions
-* 22nd October - Notification
-* 29th November - Camera ready
-* 1st December - Event
+* ~~ 1st August - Fill-in Expression of Interest (so we can get a list of people interested) ~~
+* 1st October - Deadline for submissions of talk/paper abstracts [EasyChair]()
+* 14th October - Notification for talk abstracts
+* 5th November - Deadline for paper drafts to compile informal proceedings
+* 1st December - Event in Cambridge and hybrid
+* 31st January - post-proceedings Festschrift deadline.
 
-
-## Festschrift editors
+## Organisers and Festschrift editors
 
 - Dominic Orchard, University of Kent and University of Cambridge (dao29@cam.ac.uk)
 - Tomas Petricek, Charles University (tomas@tomasp.net)
