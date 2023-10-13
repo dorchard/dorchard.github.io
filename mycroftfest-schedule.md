@@ -19,7 +19,6 @@ noindex: true
 * 09:25-09:50 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
 * 09:50-10:10 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
 * 10:10-10:35 - (25 min) No Need to Imply Anything (Torrens)
-
 * 10:35-11:00 - Coffee
 
 ### Monads, comonads, and grades
