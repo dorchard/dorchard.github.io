@@ -1,32 +1,42 @@
-# Introduction
+---
+layout: subpage
+title: Festschrift to celebrate the work of Prof. Alan Mycroft
+sitemap:
+    priority: 0.9
+    changefreq: monthly
+noindex: true
+---
+
+# Schedule
+
+### Introduction
 
 * 09:00-09:10 - Welcome and some thoughts on Alan's career (Dom, Tomas, Jeremy)
 
-# Static analysis and compilation
+### Static analysis and compilation
 
 * 09:10-09:25 - (15 min) On the NorCroft compiler (Singer)
 * 09:25-09:50 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
 * 09:50-10:10 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
 * 10:10-10:35 - (25 min) No Need to Imply Anything (Torrens)
-------
-* 10:35-11:00 - Coffee
-------
 
-# Monads, comonads, and grades
+* 10:35-11:00 - Coffee
+
+### Monads, comonads, and grades
 
 * 11:00-11:30 - (30 min) Comonadic notions of computation revisited (Uustalu)
 * 11:30-12:00 - (30 min) How to construct graded monads (McDermott)
 * 12:00-12:30 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (Liepelt, Marshall, Orchard)
 
-# Lunch
+### Lunch
 
 * 12:30-13:30 - Lunch
 
-# Post lunch 
+### Post lunch 
 
 * 13:40-13:45 - (15 min) - Recollections of Alan's early career (Ken Moody)
 
-# Programming languages and systems
+### Programming languages and systems
 
 * 13:45-14:15 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (Marshall)
 * 14:15-14:40 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (Thomsen, Thomsen, Bogholm)
@@ -34,13 +44,13 @@
 
 * 15:05-15:30 - Coffee
 
-# Performance, parallelism, and the real world
+### Performance, parallelism, and the real world
 
 * 15:30-15:50 (20 min) Air quality big data analytics using low-cost sensors (Katsiri)
 * 15:50-16:20 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Oancea, Watt)
 * 16:20-16:45 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Lokhmotov, Gordon, Donaldson)
 * 16:45-17:15 (30 min) Triemaps that match (Peyton Jones, Graf)
 
------------
+### Closing
 
 * 17:15-17:20 (5 mins) Closing remarks (Dominic, Tomas, Jeremy)
