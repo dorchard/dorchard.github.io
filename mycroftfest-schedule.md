@@ -50,6 +50,6 @@ noindex: true
 * 16:20-16:45 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Lokhmotov, Gordon, Donaldson)
 * 16:45-17:15 (30 min) Triemaps that match (Peyton Jones, Graf)
 
-### Closing
+### Closing
 
 * 17:15-17:20 (5 mins) Closing remarks (Dominic, Tomas, Jeremy)
