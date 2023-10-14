@@ -9,6 +9,8 @@ noindex: true
 
 # Tentative schedule 
 
+__Friday 1st December, FW26 (Computer Lab, Cambridge)__
+
 ### Introduction
 
 * 09:00-09:10 - Welcome and some thoughts on Alan's career (Dom, Tomas, Jeremy)
