@@ -24,8 +24,8 @@ noindex: true
 ### Monads, comonads, and grades
 
 * 11:00-11:30 - (30 min) Comonadic notions of computation revisited (Uustalu)
-* 11:30-12:00 - (30 min) How to construct graded monads (McDermott)
-* 12:00-12:30 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (Liepelt, Marshall, Orchard)
+* 11:30-12:00 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (Liepelt, Marshall, Orchard)
+* 12:00-12:30 - (30 min) How to construct graded monads (McDermott)
 
 ### Lunch
 
@@ -33,15 +33,15 @@ noindex: true
 
 ### Post lunch 
 
-* 13:40-13:45 - (15 min) - Recollections of Alan's early career (Ken Moody)
+* 13:30-13:40 - (10 min) - Recollections of Alan's early career (Moody)
 
 ### Programming languages and systems
 
-* 13:45-14:15 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (Marshall)
-* 14:15-14:40 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (Thomsen, Thomsen, Bogholm)
-* 14:40-15:05 - (25 min) A Symbolic Computing Perspective on Software Systems (Norman, Watt)
+* 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (Marshall)
+* 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (Thomsen, Thomsen, Bogholm)
+* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Norman, Watt)
 
-* 15:05-15:30 - Coffee
+* 15:00-15:30 - Coffee
 
 ### Performance, parallelism, and the real world
 
