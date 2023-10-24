@@ -18,7 +18,7 @@ sitemap:
 <ul class="list-group">
   {% assign year = 0 %}
   {% for talk in collection %}
-  <u>{{ talk.year }} - {{ year }}</u>
+  <u>{{ talk.year }} - {{ year }} - {{  (talk.year != year) }}</u>
       {% if talk.year and (talk.year != year) %}
         <span class='year'>{{ talk.year }}</span>
 	{% endif %}
