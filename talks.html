@@ -18,12 +18,13 @@ sitemap:
 <ul class="list-group">
   {% assign year = 0 %}
   {% for talk in collection %}
-  {% if talk.year %}
-    {% unless (talk.year == year) %}
-        <span class='year'>{{ talk.year }}</span>
-     {% endunless %}
-     {% assign year = talk.year %}
-  {% endif %}
+    {% assign currentyear = talk.year %}
+    {% if talk.year %}
+       {% unless (currentyear == year) %}
+          <span class='year'>{{ talk.year }}</span>
+       {% endunless %}
+       {% assign year = currentyear %}
+    {% endif %}
         <li class="list-group-item">
           <strong>{{ talk.title }}</strong>.
           {% if talk.event-url %}<a href="{{ talk.event-url}}">{% endif %}
