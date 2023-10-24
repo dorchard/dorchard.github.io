@@ -25,6 +25,9 @@ sitemap:
           {% if talk.slides-pdf %}
 	  [<a href="{{ talk.slides-pdf }}">PDF Slides</a>]
           {% endif %}            
+          {% if talk.video %}
+	  [<a href="{{ talk.video }}">Video</a>]
+          {% endif %}            
         </li>
 {% endfor %}
 </ul>        
