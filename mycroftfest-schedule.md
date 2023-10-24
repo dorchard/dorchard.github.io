@@ -42,16 +42,17 @@ __Friday 1st December, FW26 (Computer Lab, Cambridge)__
 * 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (Marshall)
 * 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (Thomsen, Thomsen, Bogholm)
 * 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Norman, Watt)
+* 15:00-15:20 - (20 min) Programming systems deserve a theory too! (Petricek, Jakubovic)
 
-* 15:00-15:30 - Coffee
+* 15:20-15:50 - Coffee
 
 ### Performance, parallelism, and the real world
 
-* 15:30-15:50 (20 min) Air quality big data analytics using low-cost sensors (Katsiri)
-* 15:50-16:20 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Oancea, Watt)
-* 16:20-16:45 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Lokhmotov, Gordon, Donaldson)
-* 16:45-17:15 (30 min) Triemaps that match (Peyton Jones, Graf)
+* 15:50-16:10 (20 min) Air quality big data analytics using low-cost sensors (Katsiri)
+* 16:10-16:40 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Oancea, Watt)
+* 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Lokhmotov, Gordon, Donaldson)
+* 17:05-17:35 (30 min) Triemaps that match (Peyton Jones, Graf)
 
 ### Closing
 
-* 17:15-17:20 (5 mins) Closing remarks (Dominic, Tomas, Jeremy)
+* 17:35-17:40 (5 mins) Closing remarks (Dominic, Tomas, Jeremy)
