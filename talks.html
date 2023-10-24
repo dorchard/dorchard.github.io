@@ -8,9 +8,8 @@ sitemap:
 
 <style>
   span.year {
-      font-size: bigger;
       font-weight: 800;
-      margin-left: 5em;
+      margin-left: -4em;
   }
 </style>
 
@@ -21,8 +20,8 @@ sitemap:
   {% for talk in collection %}
       {% if talk.year && talk.year != year %}
         <span class='year'>{{ talk.year }}</span>
+	{% endif %}
         {% assign year = talk.year %}
-      {% endif %}
         <li class="list-group-item">
           <strong>{{ talk.title }}</strong>.
           {% if talk.event-url %}<a href="{{ talk.event-url}}">{% endif %}
