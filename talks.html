@@ -6,16 +6,29 @@ sitemap:
     changefreq: monthly
 ---
 
+<style>
+  span.year {
+      font-size: bigger;
+      font-weight: 800;
+      margin-left: 5em;
+  }
+</style>
+
 {% assign collection = site.talks | sort: "pos" | reverse %}
 
 <ul class="list-group">
+  {% year = 0 %}
   {% for talk in collection %}
-        <li class="list-group-item">          
+      {% if talk.year != year %}
+        <span class='year'>{{ talk.year }}</span>
+        {% year = talk.year %}
+      {% endif %}
+        <li class="list-group-item">
           <strong>{{ talk.title }}</strong>.
           {% if talk.event-url %}<a href="{{ talk.event-url}}">{% endif %}
 	  {% if talk.venue %} {{ talk.venue }}. {% endif %}
           {% if talk.event-url %}</a>{% endif %}
-	  
+
 	  {% if talk.date %} {{ talk.date | date: "%d %B %Y" }}.{% else %}
           {% if talk.year %} {{ talk.year }}. {% endif %}
 		{% endif %}
@@ -24,10 +37,10 @@ sitemap:
           {% endif %}
           {% if talk.slides-pdf %}
 	  [<a href="{{ talk.slides-pdf }}">PDF Slides</a>]
-          {% endif %}            
+          {% endif %}
           {% if talk.video %}
 	  [<a href="{{ talk.video }}">Video</a>]
-          {% endif %}            
+          {% endif %}
         </li>
 {% endfor %}
-</ul>        
+</ul>
