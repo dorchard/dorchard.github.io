@@ -19,7 +19,7 @@ sitemap:
 <ul class="list-group">
   {% year = 0 %}
   {% for talk in collection %}
-      {% if talk.year != year %}
+      {% if talk.year && talk.year != year %}
         <span class='year'>{{ talk.year }}</span>
         {% year = talk.year %}
       {% endif %}
