@@ -5,6 +5,4 @@ date: 03/03/2023
 year: 2023
 pos: 1
 venue: "UK Met Office Data Science Community of Practice"
-event-url: 
-slides-pdf: 
 ---

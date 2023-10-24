@@ -1,5 +1,5 @@
 ---
-title: Graded Types: Theory and Practice (four sessions)
+title: Graded Types - Theory and Practice (four sessions)
 date: 24/07/2023
 year: 2023
 pos: 1
