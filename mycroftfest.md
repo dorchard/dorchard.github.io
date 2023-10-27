@@ -73,13 +73,14 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 ## Festschrift
 
-We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
+
+We intend to publish a festschrift (publishers to be confirmed) after the event.  We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
 
 <!-- Furthemore, we would also happily receive talk proposals of a more informal nature, for example, to talk about previous collaborations with Alan or early interactions. -->
 
 We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely.
 
-We intend to publish a festschrift (publishers to be confirmed) after the event. The submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
+Submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
 
 ## Important dates (revised)
 
