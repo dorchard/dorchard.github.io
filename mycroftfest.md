@@ -13,21 +13,15 @@ noindex: true
 
 To celebrate Alan's retirement, there will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions both of a technical and personal nature. In early 2024 we will publish a Festschrift to mark the occasion, with a submission deadline of 31st January.
 
-We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
-
-<!-- Furthemore, we would also happily receive talk proposals of a more informal nature, for example, to talk about previous collaborations with Alan or early interactions. -->
-
-We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely.
-
 <!-- More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest) -->
 
-# Event
+# Symposium
 
 The event will be on the 1st of December in FW26 of the [William Gates Building (Computer Laboratory), University of Cambridge](https://www.google.com/maps/place/Computer+Laboratory/@52.210891,0.0891517,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8774a3f6e55cd:0xabf8227343e684c7!8m2!3d52.210891!4d0.091732!16zL20vMDJtN2xj?entry=ttu).
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform). Please register by the 10th November if you intend to join the event.
 
-# Schedule
+## Schedule
 
 ### Introduction
 
@@ -78,6 +72,12 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 
 ## Festschrift
+
+We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
+
+<!-- Furthemore, we would also happily receive talk proposals of a more informal nature, for example, to talk about previous collaborations with Alan or early interactions. -->
+
+We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely.
 
 We intend to publish a festschrift (publishers to be confirmed) after the event. The submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
 
