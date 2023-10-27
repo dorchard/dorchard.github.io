@@ -41,8 +41,8 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 * 09:15-09:30 - (15 min) On the NorCroft compiler (Singer)
 * 09:30-09:55 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
 * 09:55-10:15 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
-* 10:15-10:40 - (25 min) No Need to Imply Anything (Torrens)
-* 10:40-11:00 - Coffee
+* 10:15-10:35 - (20 min) No Need to Imply Anything (Torrens)
+* 10:35-11:00 - Coffee
 
 ### Monads, comonads, and grades
 
