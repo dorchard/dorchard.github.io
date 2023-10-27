@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Festschrift to celebrate the work of Prof. Alan Mycroft
+title: Symposium and festschrift to celebrate the work of Prof. Alan Mycroft
 sitemap:
     priority: 0.9
     changefreq: monthly
