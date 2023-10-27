@@ -33,15 +33,16 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 ### Introduction
 
-* 09:00-09:10 - Welcome and some thoughts on Alan's career (Dom, Tomas, Jeremy)
+* 09:00-09:10 - Welcome from the organisers (Dom, Tomas, Jeremy)
+* 09:10-09:15 - Welcome from the Head of Department, Alastair Beresford
 
 ### Static analysis and compilation
 
-* 09:10-09:25 - (15 min) On the NorCroft compiler (Singer)
-* 09:25-09:50 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
-* 09:50-10:10 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
-* 10:10-10:35 - (25 min) No Need to Imply Anything (Torrens)
-* 10:35-11:00 - Coffee
+* 09:15-09:30 - (15 min) On the NorCroft compiler (Singer)
+* 09:30-09:55 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
+* 09:55-10:15 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
+* 10:15-10:40 - (25 min) No Need to Imply Anything (Torrens)
+* 10:40-11:00 - Coffee
 
 ### Monads, comonads, and grades
 
