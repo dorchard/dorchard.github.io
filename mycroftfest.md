@@ -7,8 +7,6 @@ sitemap:
 noindex: true
 ---
 
-# MycroftFest
-
 <img src="images/am2022.jpg" style="float:right; max-height: 200px; margin: 15px;" />
 
 [Professor Alan Mycroft](https://www.cl.cam.ac.uk/~am21/) is well-known for his many pioneering contributions to programming language theory and applications, both design and implementation, ranging from compilation and optimization techniques and type systems, to parallel, concurrent and dataflow programming, but also for his work as a co-founder of the Raspberry Pi Foundation. To those who worked with Alan, he is renowned for his unstoppable enthusiasm about any challenging problem related to programming and computers, making him an inspiring teacher, mentor, and collaborator.
@@ -23,7 +21,7 @@ We are extending this invite to all of Alan's previous students, colleagues, and
 
 <!-- More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest) -->
 
-## Event
+# Event
 
 The event will be on the 1st of December in FW26 of the [William Gates Building (Computer Laboratory), University of Cambridge](https://www.google.com/maps/place/Computer+Laboratory/@52.210891,0.0891517,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8774a3f6e55cd:0xabf8227343e684c7!8m2!3d52.210891!4d0.091732!16zL20vMDJtN2xj?entry=ttu).
 
