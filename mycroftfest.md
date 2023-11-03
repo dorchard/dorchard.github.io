@@ -87,7 +87,7 @@ Submissions should follow the LNCS formatting guidelines and should be at least 
 * ~~1st October - Deadline for submissions of talk abstracts or talk+paper abstracts on [EasyChair](https://easychair.org/conferences/?conf=mycroftfest23)~~
 * ~~14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)~~
 * 5th November - Deadline for any paper drafts to compile informal proceedings (though if you would like to submit to the Festschrift you need not submit a draft at this point).
-* 10th November - [Registration](https://www.google.com/maps/place/Computer+Laboratory/@52.210891,0.0891517,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8774a3f6e55cd:0xabf8227343e684c7!8m2!3d52.210891!4d0.091732!16zL20vMDJtN2xj?entry=ttu) deadline.
+* 10th November - [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform) deadline.
 * 1st December - Event in Cambridge (FW26, Department of Computer Science and Technology) and hybrid
 * 31st January - post-proceedings Festschrift deadline
 
