@@ -25,22 +25,22 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 ### Introduction
 
-* 09:00-09:10 - Welcome from the organisers (Dom, Tomas, Jeremy)
-* 09:10-09:15 - Welcome from the Head of Department, Alastair Beresford
+* 09:00-09:10 - Welcome from the organisers (__Dominic Orchard__, __Tomas Petricek__, __Jeremy Singer__)
+* 09:10-09:15 - Welcome from the Head of Department (__Alastair Beresford__)
 
 ### Static analysis and compilation
 
-* 09:15-09:30 - (15 min) On the NorCroft compiler (Singer)
-* 09:30-09:55 - (25 min) Static Analysis for Hardware Design (Rosendahl, Kirkeby)
-* 09:55-10:15 - (20 min) When Obfuscations Preserve Constant-Time (Busi, Degano, Galletta)
-* 10:15-10:35 - (20 min) No Need to Imply Anything (Torrens)
+* 09:15-09:30 - (15 min) On the NorCroft compiler (__Jeremy Singer__)
+* 09:30-09:55 - (25 min) Static Analysis for Hardware Design (Mads Rosendahl, Maja Kirkeby)
+* 09:55-10:15 - (20 min) When Obfuscations Preserve Constant-Time (Matteo Busi, __Pierpaolo Degano__, Letterio Galletta)
+* 10:15-10:35 - (20 min) No Need to Imply Anything (__Paulo Torrens__)
 * 10:35-11:00 - Coffee
 
 ### Monads, comonads, and grades
 
-* 11:00-11:30 - (30 min) Comonadic notions of computation revisited (Uustalu)
-* 11:30-12:00 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (Liepelt, Marshall, Orchard)
-* 12:00-12:30 - (30 min) How to construct graded monads (McDermott)
+* 11:00-11:30 - (30 min) Comonadic notions of computation revisited (__Tarmo Uustalu__)
+* 11:30-12:00 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
+* 12:00-12:30 - (30 min) How to construct graded monads (__Dylan McDermott__)
 
 ### Lunch
 
@@ -48,27 +48,27 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 ### Post lunch 
 
-* 13:30-13:40 - (10 min) - Recollections of Alan's early career (Moody)
+* 13:30-13:40 - (10 min) - Recollections of Alan's early career (__Ken Moody__)
 
 ### Programming languages and systems
 
-* 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (Marshall)
-* 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (Thomsen, Thomsen, Bogholm)
-* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Norman, Watt)
-* 15:00-15:20 - (20 min) Programming systems deserve a theory too! (Petricek, Jakubovic)
+* 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (__Daniel Marshall__)
+* 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (__Bent Thomsen__, Lone Leth Thomsen, Thomas Bøgholm)
+* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Arthur Norman, Stephen Watt)
+* 15:00-15:20 - (20 min) Programming systems deserve a theory too! (Tomas Petricek, Joel Jakubovic)
 
 * 15:20-15:50 - Coffee
 
 ### Performance, parallelism, and the real world
 
-* 15:50-16:10 (20 min) Air quality big data analytics using low-cost sensors (Katsiri)
-* 16:10-16:40 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Oancea, Watt)
-* 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Lokhmotov, Gordon, Donaldson)
-* 17:05-17:35 (30 min) Triemaps that match (Peyton Jones, Graf)
+* 15:50-16:10 (20 min) Air quality big data analytics using low-cost sensors (__Eleftheria Katsiri__)
+* 16:10-16:40 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Cosmin Oancea, Stephen Watt)
+* 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Anton Lokhmotov, Leo Gordon, Alastair Donaldson)
+* 17:05-17:35 (30 min) Triemaps that match (Simon Peyton Jones, Sebastian Graf)
 
 ### Closing
 
-* 17:35-17:40 (5 mins) Closing remarks (Dominic, Tomas, Jeremy)
+* 17:35-17:40 (5 mins) Closing remarks (Dominic Orchard, Tomas Petricek, Jeremy Singer)
 
 
 ## Festschrift
