@@ -63,7 +63,7 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 
 * 15:50-16:10 (20 min) Air quality big data analytics using low-cost sensors (__Eleftheria Katsiri__)
 * 16:10-16:40 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Cosmin Oancea, Stephen Watt)
-* 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (Anton Lokhmotov, Leo Gordon, Alastair Donaldson)
+* 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (__Anton Lokhmotov__, Leo Gordon, Alastair Donaldson)
 * 17:05-17:35 (30 min) Triemaps that match (Simon Peyton Jones, Sebastian Graf)
 
 ### Closing
