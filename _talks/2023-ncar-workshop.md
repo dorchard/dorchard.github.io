@@ -6,4 +6,5 @@ year: 2023
 pos: 4
 venue: "Workshop on Correctness and Reproducibility for Climate and Weatehr Software, NCAR, Colorado"
 event-url: https://ncar.github.io/correctness-workshop/
+slides-pdf: slides/climate-science-verification-slides.pdf
 ---
