@@ -39,8 +39,8 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 ### Monads, comonads, and grades
 
 * 11:00-11:30 - (30 min) Comonadic notions of computation revisited (__Tarmo Uustalu__)
-* 11:30-12:00 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
-* 12:00-12:30 - (30 min) How to construct graded monads (__Dylan McDermott__)
+* 11:30-12:00 - (30 min) How to construct graded monads (__Dylan McDermott__)
+* 12:00-12:30 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
 
 ### Lunch
 
