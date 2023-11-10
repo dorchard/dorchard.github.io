@@ -38,11 +38,14 @@ sitemap:
 	  [<a href="{{ talk.slides }}">Slides</a>]
           {% endif %}
           {% if talk.slides-pdf %}
-	  [<a href="{{ talk.slides-pdf }}">PDF Slides</a>]
+	  [<a href="{{ talk.slides-pdf }}">Slides PDF</a>]
           {% endif %}
           {% if talk.video %}
 	  [<a href="{{ talk.video }}">Video</a>]
           {% endif %}
+	  {% if talk.resource %}
+	  [<a href="{{ talk.resource.url }}">{{ talk.resource.name }}</a>]
+	  {% endif %}
         </li>
 {% endfor %}
 </ul>

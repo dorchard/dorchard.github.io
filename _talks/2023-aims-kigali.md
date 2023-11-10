@@ -1,5 +1,5 @@
 ---
-title: Using types of rule out bugs - Python vs Fortran perspective
+title: Using types to rule out bugs - Python vs Fortran perspective
 month: October
 date: 21/10/2023
 year: 2023
