@@ -5,5 +5,5 @@ year: 2023
 pos: 1
 venue: "Scottish Programming Languages and Verification Summer School"
 event-url: https://splv23.github.io/
-slides-pdf: https://granule-project.github.io/splv23
+slides: https://granule-project.github.io/splv23
 ---
