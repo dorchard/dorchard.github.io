@@ -36,7 +36,7 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 * 10:15-10:35 - (20 min) No Need to Imply Anything (__Paulo Torrens__)
 * 10:35-11:00 - Coffee
 
-* 11:00-11:20 - (20 min) The Contributions of Alan Mycroft to Abstract Interpretation (__Patrick Cousout__)
+* 11:00-11:20 - (20 min) The Contributions of Alan Mycroft to Abstract Interpretation (__Patrick Cousot__)
 
 ### Monads, comonads, and grades
 
