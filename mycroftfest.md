@@ -36,15 +36,17 @@ The event will be on the 1st of December in FW26 of the [William Gates Building 
 * 10:15-10:35 - (20 min) No Need to Imply Anything (__Paulo Torrens__)
 * 10:35-11:00 - Coffee
 
+* 11:00-11:20 - (20 min) The Contributions of Alan Mycroft to Abstract Interpretation (__Patrick Cousout__)
+
 ### Monads, comonads, and grades
 
-* 11:00-11:30 - (30 min) Comonadic notions of computation revisited (__Tarmo Uustalu__)
-* 11:30-12:00 - (30 min) How to construct graded monads (__Dylan McDermott__)
-* 12:00-12:30 - (30 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
+* 11:20-11:50 - (30 min) Comonadic notions of computation revisited (__Tarmo Uustalu__)
+* 11:50-12:20 - (30 min) How to construct graded monads (__Dylan McDermott__)
+* 12:20-12:35 - (15 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
 
 ### Lunch
 
-* 12:30-13:30 - Lunch
+* 12:35-13:30 - Lunch
 
 ### Post lunch 
 
