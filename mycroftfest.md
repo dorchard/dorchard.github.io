@@ -21,6 +21,8 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform). Please register by the 10th November if you intend to join the event. __If you did not register in time, do not worry, please just come (but be mindful that we should give priority for lunch + refreshements to those who signed up in time).__
 
+## [Proceedings]()
+
 ## Schedule
 
 ### Introduction
@@ -72,6 +74,10 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 * 17:35-17:40 (5 mins) Closing remarks (Dominic Orchard, Tomas Petricek, Jeremy Singer)
 
+### Evening
+
+* 17:45-19:00 - Drinks + canapés reception in The Street (William Gates Buildin)
+* 19:30-late - Dinner at [The Castle Inn](https://www.google.com/maps/search/the+castle+inn+cambridge/@52.2075091,0.1134938,16z/data=!3m1!4b1?entry=ttu) (pay your own way)
 
 ## Festschrift
 
@@ -88,9 +94,9 @@ Submissions should follow the LNCS formatting guidelines and should be at least 
 
 * ~~1st October - Deadline for submissions of talk abstracts or talk+paper abstracts on [EasyChair](https://easychair.org/conferences/?conf=mycroftfest23)~~
 * ~~14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)~~
-* 5th November - Deadline for any paper drafts to compile informal proceedings (though if you would like to submit to the Festschrift you need not submit a draft at this point).
-* 10th November - [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform) deadline.
-* 1st December - Event in Cambridge (FW26, Department of Computer Science and Technology) and hybrid
+* ~~5th November - Deadline for any paper drafts to compile informal proceedings (though if you would like to submit to the Festschrift you need not submit a draft at this point).~~
+* 10th November - [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform) deadline. This was only to get an indication of numbers for catering. Please do come anyway.
+* 1st December - Event in Cambridge (Department of Computer Science and Technology) and hybrid
 * 31st January - post-proceedings Festschrift deadline
 
 ## Organisers and Festschrift editors
