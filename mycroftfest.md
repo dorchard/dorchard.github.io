@@ -76,7 +76,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 ### Evening
 
-* 17:45-19:00 - Drinks + canapés reception in The Street (William Gates Buildin)
+* 17:45-19:00 - Drinks + canapés reception in 'The Street' (inside in the William Gates Building)
 * 19:30-late - Dinner at [The Castle Inn](https://www.google.com/maps/search/the+castle+inn+cambridge/@52.2075091,0.1134938,16z/data=!3m1!4b1?entry=ttu) (pay your own way)
 
 ## Festschrift
