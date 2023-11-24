@@ -16,42 +16,42 @@ noindex: true
 
 ### Static analysis and compilation
 
-* 09:15-09:40 - On the NorCroft compiler (__Jeremy Singer__)
-* 09:40-10:05 - Static Analysis for Hardware Design (Mads Rosendahl, Maja Kirkeby)
-* 10:05-10:30 - When Obfuscations Preserve Constant-Time (Matteo Busi, __Pierpaolo Degano__, Letterio Galletta)
+* 09:15-09:30 - On the NorCroft compiler (__Jeremy Singer__)
+* 09:30-09:55 - Static Analysis for Hardware Design (Mads Rosendahl, Maja Kirkeby)
+* 09:55-10:20 - When Obfuscations Preserve Constant-Time (Matteo Busi, __Pierpaolo Degano__, Letterio Galletta)
 
-* 10:30-11:00 - Coffee
+* 10:20-10:50 - Coffee
 
-* 11:00-11:25 - No Need to Imply Anything (__Paulo Torrens__)
-* 11:25-11:50 - The Contributions of Alan Mycroft to Abstract Interpretation (__Patrick Cousot__)
-* 11:50-12:00 - Recollections of Alan's early career (__Ken Moody__)
+* 10:50-11:15 - No Need to Imply Anything (__Paulo Torrens__)
+* 11:15-11:40 - The Contributions of Alan Mycroft to Abstract Interpretation (__Patrick Cousot__)
+* 11:40-11:50 - Recollections of Alan's early career (__Ken Moody__)
 
 ### Lunch
 
-* 12:00-13:00 - Lunch
+* 11:50-12:50 - Lunch
 
 ### Monads, comonads, and grades
 
-* 13:00-13:25 - Comonadic notions of computation revisited (__Tarmo Uustalu__)
-* 13:25-13:50 - How to construct graded monads (__Dylan McDermott__)
-* 13:50-14:05 - A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
+* 12:50-13:15 - Comonadic notions of computation revisited (__Tarmo Uustalu__)
+* 13:15-13:40 - How to construct graded monads (__Dylan McDermott__)
+* 13:40-13:55 - A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
 
 ### Programming languages and systems
 
-* 14:05-14:30 - Linearity, Uniqueness, Ownership: An Entente Cordiale (__Daniel Marshall__)
-* 14:30-14:55 - Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (__Bent Thomsen__, Lone Leth Thomsen, Thomas Bøgholm)
-* 14:55-15:20 - A Symbolic Computing Perspective on Software Systems (Arthur Norman, Stephen Watt)
-* 15:20-15:45 - Programming systems deserve a theory too! (Tomas Petricek, Joel Jakubovic)
+* 13:55-14:20 - Linearity, Uniqueness, Ownership: An Entente Cordiale (__Daniel Marshall__)
+* 14:20-14:45 - Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (__Bent Thomsen__, Lone Leth Thomsen, Thomas Bøgholm)
+* 14:45-15:10 - A Symbolic Computing Perspective on Software Systems (Arthur Norman, Stephen Watt)
+* 15:10-15:35 - Programming systems deserve a theory too! (Tomas Petricek, Joel Jakubovic)
 
-* 15:45-16:15 - Coffee
+* 15:35-16:00 - Coffee
 
 ### Performance, parallelism, and the real world
 
-* 16:15-16:40 - Air quality big data analytics using low-cost sensors (__Eleftheria Katsiri__)
-* 16:40-17:05 - Parallel Multiprecision Arithmetic the Easy Way (Cosmin Oancea, Stephen Watt)
-* 17:05-17:30 - axs: a workflow automation language for omni-benchmarking and optimization (__Anton Lokhmotov__, Leo Gordon, Alastair Donaldson)
-* 17:30-17:55 - Triemaps that match (Simon Peyton Jones, Sebastian Graf)
+* 16:00-16:25 - Air quality big data analytics using low-cost sensors (__Eleftheria Katsiri__)
+* 16:25-16:50 - Parallel Multiprecision Arithmetic the Easy Way (Cosmin Oancea, Stephen Watt)
+* 16:50-17:15 - axs: a workflow automation language for omni-benchmarking and optimization (__Anton Lokhmotov__, Leo Gordon, Alastair Donaldson)
+* 17:15-17:40 - Triemaps that match (Simon Peyton Jones, Sebastian Graf)
 
 ### Closing
 
-* 17:55-18:00 - Closing remarks (Dominic Orchard, Tomas Petricek, Jeremy Singer)
+* 17:40-17:45 - Closing remarks (Dominic Orchard, Tomas Petricek, Jeremy Singer)
