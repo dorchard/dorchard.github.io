@@ -21,7 +21,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform). Please register by the 10th November if you intend to join the event. __If you did not register in time, do not worry, please just come (but be mindful that we should give priority for lunch + refreshements to those who signed up in time).__
 
-## [Proceedings]()
+## [Proceedings](mycroftfest-proceedings.pdf)
 
 ## Schedule
 
