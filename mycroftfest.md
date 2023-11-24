@@ -82,7 +82,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 ## Festschrift
 
 
-We intend to publish a festschrift (publishers to be confirmed) after the event.  We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
+We intend to publish a festschrift (in the Springer LNCS series) after the event.  We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
 
 <!-- Furthemore, we would also happily receive talk proposals of a more informal nature, for example, to talk about previous collaborations with Alan or early interactions. -->
 
