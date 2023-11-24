@@ -17,9 +17,9 @@ To celebrate Alan's retirement, there will be a hybrid event in the early winter
 
 # Symposium
 
-The event will be on the 1st of December in FW26 of the [William Gates Building (Computer Laboratory), University of Cambridge](https://www.google.com/maps/place/Computer+Laboratory/@52.210891,0.0891517,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8774a3f6e55cd:0xabf8227343e684c7!8m2!3d52.210891!4d0.091732!16zL20vMDJtN2xj?entry=ttu).
+The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William Gates Building (Computer Laboratory), University of Cambridge](https://www.google.com/maps/place/Computer+Laboratory/@52.210891,0.0891517,17z/data=!3m1!4b1!4m6!3m5!1s0x47d8774a3f6e55cd:0xabf8227343e684c7!8m2!3d52.210891!4d0.091732!16zL20vMDJtN2xj?entry=ttu).
 
-[Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform). Please register by the 10th November if you intend to join the event.
+[Registration](https://docs.google.com/forms/d/e/1FAIpQLScjsZc8PNVVkdjPHyPiLt4d6l3Yj60oQDbZUCklwhPwub7dTA/viewform). Please register by the 10th November if you intend to join the event. __If you did not register in time, do not worry, please just come (but be mindful that we should give priority for lunch + refreshements to those who signed up in time).__
 
 ## Schedule
 
