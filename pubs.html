@@ -33,6 +33,9 @@ sitemap:
               {% if publication.resource.slides %}
 	        [<a href="{{ publication.resource.slides }}">Slides</a>]
               {% endif %} 
+		{% if publication.resource.code %}
+	        [<a href="{{ publication.resource.code }}">Accompanying code</a>]
+              {% endif %} 
 	      {% if publication.resource.type == 'url' %}
 	        <a href="{{ publication.resource.value }}">{{ publication.resource.value }}</a>
               {% elsif publication.resource.type == 'pdf-report' %}
@@ -89,6 +92,10 @@ sitemap:
             {% if publication.resource.slides %}
 	            [<a href="{{ publication.resource.slides }}">Slides</a>]
             {% endif %} 
+		
+		{% if publication.resource.code %}
+	        [<a href="{{ publication.resource.code }}">Accompanying code</a>]
+              {% endif %} 
 	          {% if publication.resource.type == 'doi' %}
 	            <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
             {% elsif publication.resource.type == 'doi-report' %}
@@ -138,6 +145,9 @@ sitemap:
             {% if publication.resource.slides %}
 	      [<a href="{{ publication.resource.slides }}">Slides</a>]
             {% endif %} 
+		{% if publication.resource.code %}
+	        [<a href="{{ publication.resource.code }}">Accompanying code</a>]
+              {% endif %} 
 	    {% if publication.resource.type == 'doi' %}
 	      <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
 	    {% elsif publication.resource.type == 'url' %}
@@ -216,6 +226,9 @@ sitemap:
             {% if publication.resource.slides %}
               [<a href="{{ publication.resource.slides }}">Slides</a>]
             {% endif %} 
+	   {% if publication.resource.code %}
+	        [<a href="{{ publication.resource.code }}">Accompanying code</a>]
+              {% endif %} 
 	    {% if publication.resource.type == 'doi' %}
 	      <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
 	    {% elsif publication.resource.type == 'url' %}
