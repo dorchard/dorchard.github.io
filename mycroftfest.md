@@ -44,7 +44,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 * 11:20-11:50 - (30 min) Comonadic notions of computation revisited (__Tarmo Uustalu__)
 * 11:50-12:20 - (30 min) How to construct graded monads (__Dylan McDermott__)
-* 12:20-12:35 - (15 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (__Vilem Liepelt__, Daniel Marshall, Dominic Orchard)
+* 12:20-12:35 - (15 min) A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads (Vilem Liepelt, Daniel Marshall, __Dominic Orchard__)
 
 ### Lunch
 
