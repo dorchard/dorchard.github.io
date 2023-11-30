@@ -58,7 +58,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 * 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (__Daniel Marshall__)
 * 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (__Bent Thomsen__, Lone Leth Thomsen, Thomas Bøgholm)
-* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Arthur Norman, __Stephen Watt__)
+* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (__Arthur Norman__, Stephen Watt)
 * 15:00-15:20 - (20 min) Programming systems deserve a theory too! (Tomas Petricek, Joel Jakubovic)
 
 * 15:20-15:50 - Coffee
