@@ -72,7 +72,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 ### Closing
 
-* 17:35-17:40 (5 mins) Closing remarks (__Dominic Orchard__, __Tomas Petricek__, __Jeremy Singer__)
+* 17:35-17:45 (10 mins) Closing remarks and Alan's 'right to reply'
 
 ### Evening
 
