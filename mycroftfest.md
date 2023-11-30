@@ -58,7 +58,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 
 * 13:40-14:10 - (30 min) Linearity, Uniqueness, Ownership: An Entente Cordiale (__Daniel Marshall__)
 * 14:10-14:35 - (25 min) Sustainable software development - new challenges for programming, programming language design, compiler construction and program analysis (__Bent Thomsen__, Lone Leth Thomsen, Thomas Bøgholm)
-* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Arthur Norman, Stephen Watt)
+* 14:35-15:00 - (25 min) A Symbolic Computing Perspective on Software Systems (Arthur Norman, __Stephen Watt__)
 * 15:00-15:20 - (20 min) Programming systems deserve a theory too! (Tomas Petricek, Joel Jakubovic)
 
 * 15:20-15:50 - Coffee
@@ -68,7 +68,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 * 15:50-16:10 (20 min) Air quality big data analytics using low-cost sensors (__Eleftheria Katsiri__)
 * 16:10-16:40 (30 min) Parallel Multiprecision Arithmetic the Easy Way (Cosmin Oancea, Stephen Watt)
 * 16:40-17:05 (25 min) axs: a workflow automation language for omni-benchmarking and optimization (__Anton Lokhmotov__, Leo Gordon, Alastair Donaldson)
-* 17:05-17:35 (30 min) Triemaps that match (Simon Peyton Jones, Sebastian Graf)
+* 17:05-17:35 (30 min) Triemaps that match (__Simon Peyton Jones__, Sebastian Graf)
 
 ### Closing
 
