@@ -33,7 +33,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 ### Static analysis and compilation
 
 * 09:15-09:30 - (15 min) On the NorCroft compiler (__Jeremy Singer__)
-* 09:30-09:55 - (25 min) Static Analysis for Hardware Design (Mads Rosendahl, Maja Kirkeby)
+* 09:30-09:55 - (25 min) Static Analysis for Hardware Design (__Mads Rosendahl__, Maja Kirkeby)
 * 09:55-10:15 - (20 min) When Obfuscations Preserve Constant-Time (Matteo Busi, __Pierpaolo Degano__, Letterio Galletta)
 * 10:15-10:35 - (20 min) No Need to Imply Anything (__Paulo Torrens__)
 * 10:35-11:00 - Coffee
