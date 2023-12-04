@@ -1,5 +1,5 @@
 ---
-title: A Tale of Two Graded Calculi: The Marriage of Coeffects and Graded Comonads
+title: A Tale of Two Graded Calculi- The Marriage of Coeffects and Graded Comonads
 month: December
 date: 01/12/2023
 year: 2023
