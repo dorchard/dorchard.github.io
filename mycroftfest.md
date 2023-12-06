@@ -11,9 +11,23 @@ noindex: true
 
 [Professor Alan Mycroft](https://www.cl.cam.ac.uk/~am21/) is well-known for his many pioneering contributions to programming language theory and applications, both design and implementation, ranging from compilation and optimization techniques and type systems, to parallel, concurrent and dataflow programming, but also for his work as a co-founder of the Raspberry Pi Foundation. To those who worked with Alan, he is renowned for his unstoppable enthusiasm about any challenging problem related to programming and computers, making him an inspiring teacher, mentor, and collaborator.
 
-To celebrate Alan's retirement, there will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions both of a technical and personal nature. In early 2024 we will publish a Festschrift to mark the occasion, with a submission deadline of 31st January.
+To celebrate Alan's retirement, there will be a hybrid event in the early winter (1st December) with talks given from those contributing submissions both of a technical and personal nature. In early 2024 we will publish a Festschrift to mark the occasion (details below).
 
 <!-- More details can be found here: [https://dorchard.github.io/mycroftfest](https://dorchard.github.io/mycroftfest) -->
+
+# Festschrift
+
+We solicit contributions to a festschrift celebrating the career and works of Professor Alan Mycroft on the occasion of his retirement from the University of Cambridge. The festschrift will be published as an issue of the Springer LNCS series.
+
+Alan is well-known for his many pioneering contributions to programming language theory and applications, both design and implementation, ranging from abstract interpretation and static analysis; to compilation, optimization techniques, and type systems; to parallel, concurrent and dataflow programming, but also for his work as a co-founder of the Raspberry Pi Foundation and as the co-creator of the Norcroft C compiler. To those who have worked with Alan, he is renowned for his unstoppable enthusiasm about any challenging problem related to programming and computers, making him an inspiring teacher, mentor, and collaborator.
+
+To celebrate Alan's retirement, we solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The criteria are academic interest, novelty, scientific quality, and a connection to Alan's own work.
+
+Submissions should follow the [LNCS formatting guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and should be at least 6 pages, and not typically exceeding 25 pages. All submissions will be reviewed by at least three expert reviewers that will be appointed by the special issue editors, drawn from within the community.
+
+* __[Submission via EasyChair](https://easychair.org/conferences/?conf=mycroftfest23)__
+* Deadline: 7th March 2024 (AoE)
+* Notification: 28th June 2024 (tentative)
 
 # Symposium
 
@@ -79,18 +93,7 @@ The event will be on Friday the 1st of December in ~~FW26~~ LT2 of the [William 
 * 17:45-19:00 - Drinks + canapés reception in 'The Street' (inside in the William Gates Building)
 * 19:30-late - Dinner at [The Castle Inn](https://www.google.com/maps/search/the+castle+inn+cambridge/@52.2075091,0.1134938,16z/data=!3m1!4b1?entry=ttu) (pay your own way)
 
-## Festschrift
-
-
-We intend to publish a festschrift (in the Springer LNCS series) after the event.  We solicit original contributions in all areas of programming language research, including clever hacker tricks, beautiful mathematical theories, practically useful programming techniques, novel language design ideas, and visions for the future of education and programming technology. Just as Alan does not fit any pre-existing well-defined box, we invite contributions outside the established boxes that cover a wide range of areas and use a wide range of styles. The only criteria is academic interest and novelty and a connection to Alan's own work. 
-
-<!-- Furthemore, we would also happily receive talk proposals of a more informal nature, for example, to talk about previous collaborations with Alan or early interactions. -->
-
-We are extending this invite to all of Alan's previous students, colleagues, and collaborators and we would be happy for this to be shared widely.
-
-Submissions should follow the LNCS formatting guidelines and should be at least 6 pages, but not typically exceeding 25 pages. All submissions will be reviewed by at least two expert reviewers that will be appointed by the special issue editors, drawn from within the community.
-
-## Important dates (revised)
+## Important dates (symposium)
 
 * ~~1st October - Deadline for submissions of talk abstracts or talk+paper abstracts on [EasyChair](https://easychair.org/conferences/?conf=mycroftfest23)~~
 * ~~14th October - Notification for talk abstracts (__we don't anticipate turning anyone away!__)~~
