@@ -7,4 +7,5 @@ pos: 3
 venue: "Workshop on Correctness and Reproducibility for Climate and Weather Software, NCAR, Colorado"
 event-url: https://ncar.github.io/correctness-workshop/
 slides-pdf: slides/climate-science-verification-slides.pdf
+video: https://youtu.be/7Gbw_4LUsYc?si=JXxDQfBIoGGFAehU&t=3744
 ---
