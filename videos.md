@@ -12,6 +12,10 @@ iframe {
 
 Some videos of talks I have given about my work in various different venues.
 
+### What could the next 30 years of software verification in climate science look like?. Workshop on Correctness and Reproducibility for Climate and Weather Software, NCAR, Colorado, November 2023
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7Gbw_4LUsYc?si=Apm4Dl9jimrzhidm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Programming for the Planet, Topos Institute Colloqium, October 2023
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/GIr_Ww0Hv0I?si=rvZQdOhJirdF2v69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
