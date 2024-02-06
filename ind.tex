@@ -2,7 +2,9 @@
 \usepackage{amssymb} %maths
 \usepackage{amsmath} %maths
 \usepackage[utf8]{inputenc} %useful to type directly diacritic characters
-\usepackage[margin=4cm]{geometry}
+\usepackage[margin=2.6cm]{geometry}
+
+\newcommand{\ind}[5]{\texttt{ind}(#1, \texttt{zero} \mapsto #2, (\texttt{succ}(#3), #4) \mapsto #5)}
 
 \title{Indexed natural numbers}
 \author{Dominic Orchard}
@@ -10,9 +12,10 @@
 \begin{document}
 \maketitle
 
+\noindent
 The standard essential details of syntax, operational semantics, and typing for indexed natural numbers.
 
-\paragraph{Type syntax}
+\subsubsection*{Type syntax}
 \begin{align}
 \tag{type-level naturals}
 N & ::= \mathbb{N} \mid N + N' \mid N * N' \mid \alpha \\
@@ -20,33 +23,42 @@ N & ::= \mathbb{N} \mid N + N' \mid N * N' \mid \alpha \\
 \tau & ::= \mathsf{Nat}\ N \mid \alpha \mid \ldots 
 \end{align}
 
-\paragraph{Term syntax}
+\subsubsection*{Term syntax}
 \begin{align*}
-e ::= zero \mid succ(e) \mid ind(e, zero \mapsto e', (succ(x), y) \mapsto e'')
+e ::= \texttt{zero} \mid \texttt{succ}(e) \mid \ind{e}{e'}{x}{y}{e''}
 \end{align*}
 The first two are constructors. The last construct is the induction principle for eliminating
-natural numbers.
+natural numbers where the first expression is the natural number to eliminate,
+the second part is for handling the zero case, and the last is for handling
+the successor case where $y$ gets bound to the recursive result.
 
-\paragraph{Operational semantics}
+\subsubsection*{Operational semantics (call-by-value)}
+
+Values for natural numbers:
 \begin{align*}
-& ind(zero, zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto e_0
+n ::= \texttt{zero} \mid \texttt{succ}(n)
+\end{align*}
+%
+Reductions:
+\begin{align*}
+& \ind{\texttt{zero}}{e_0}{x}{y}{e_1} \leadsto e_0
 \\[2em]
-& ind(succ(n), zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto e_1[n/x][ind(n,zero \mapsto e_0, (succ(x),y) \mapsto e_1))/y]
+& \ind{\texttt{succ}(n)}{e_0}{x}{y}{e_1} \leadsto e_1[n/x][\ind{n}{e_0}{x}{y}{e_1}/y]
 \\[2em]
-& \dfrac{e \leadsto e'}{ind (e, zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto ind (e', zero \mapsto e_0, (succ(x),y) \mapsto e_1)}
+& \dfrac{e \leadsto e'}{\ind{e}{e_0}{x}{y}{e_1} \leadsto \ind{e}{e_0}{x}{y}{e_1}}
 \end{align*}
 
-\paragraph{Typing rules}
+\subsubsection*{Typing rules}
 \begin{align*}
 \begin{array}{c}
-\dfrac{}{\emptyset \vdash zero : \mathsf{Nat}\ 0}
+\dfrac{}{\emptyset \vdash \texttt{zero} : \mathsf{Nat}\ 0}
 \\[2em]
-\dfrac{\Gamma \vdash e : \mathsf{Nat}\ n}{\emptyset \vdash succ(e) : \mathsf{Nat}\ (n+1)}
+\dfrac{\Gamma \vdash e : \mathsf{Nat}\ n}{\emptyset \vdash \texttt{succ}(e) : \mathsf{Nat}\ (n+1)}
 \\[2em]
 \dfrac{\begin{array}{l}
        \Gamma \vdash e : \mathsf{Nat}\ n \\ \Gamma \vdash e_0 : \tau[0/\alpha] \\
         \Gamma, x : \mathsf{Nat}\ m, y : \tau[m/\alpha] \vdash e_1 : \tau[(m+1)/\alpha]\end{array}}
-      {\Gamma \vdash ind (e, zero \mapsto e_0, (succ(x),y) \mapsto e_1) : \tau[n/\alpha] }
+      {\Gamma \vdash \ind{e}{e_0}{x}{y}{e_1} : \tau[n/\alpha] }
 \end{array}
 \end{align*}
 
