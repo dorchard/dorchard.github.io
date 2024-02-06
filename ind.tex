@@ -1,0 +1,51 @@
+\documentclass[10pt]{article}
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+
+\title{Indexed natural numbers}
+\author{Dominic Orchard}
+
+\begin{document}
+
+The essential details of syntax, operational semantics, and typing for indexed natural numbers.
+
+\paragraph{Type syntax}
+\begin{align}
+\tag{type-level naturals}
+N & ::= \mathbb{N} \mid N + N' \mid N * N' \mid \alpha \\
+\tag{types} 
+\tau & ::= \mathsf{Nat}\ N \mid \alpha \mid \ldots 
+\end{align}
+
+\paragraph{Term syntax}
+\begin{align*}
+e ::= zero \mid succ(e) \mid ind(e, zero \mapsto e', (succ(x), y) \mapsto e'')
+\end{align*}
+The first two are constructors. The last construct is the induction principle for eliminating
+natural numbers.
+
+\paragraph{Operational semantics}
+\begin{align*}
+& ind(zero, zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto e_0
+\\[2em]
+& ind(succ(n), zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto e_1[n/x][ind(n,zero \mapsto e_0, (succ(x),y) \mapsto e_1))/y]
+\\[2em]
+& \dfrac{e \leadsto e'}{ind (e, zero \mapsto e_0, (succ(x),y) \mapsto e_1) \leadsto ind (e', zero \mapsto e_0, (succ(x),y) \mapsto e_1)}
+\end{align*}
+
+\paragraph{Typing rules}
+\begin{align*}
+\begin{array}{c}
+\dfrac{}{\emptyset \vdash zero : \mathsf{Nat}\ 0}
+\\[2em]
+\dfrac{\Gamma \vdash e : \mathsf{Nat}\ n}{\emptyset \vdash succ(e) : \mathsf{Nat}\ (n+1)}
+\\[2em]
+\dfrac{\begin{array}{l}
+       \Gamma \vdash e : \mathsf{Nat}\ n \\ \Gamma \vdash e_0 : \tau[0/\alpha] \\
+        \Gamma, x : \mathsf{Nat}\ m, y : \tau[m/\alpha] \vdash e_1 : \tau[(m+1)/\alpha]\end{array}}
+      {\Gamma \vdash ind (e, zero \mapsto e_0, (succ(x),y) \mapsto e_1) : \tau[n/\alpha] }
+\end{array}
+\end{align*}
+
+\end{document}
