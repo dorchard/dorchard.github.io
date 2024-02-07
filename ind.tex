@@ -57,7 +57,7 @@ Reductions:
 \begin{array}{c}
 \dfrac{}{\emptyset \vdash \texttt{zero} : \mathsf{Nat}\ 0}
 \\[2em]
-\dfrac{\Gamma \vdash e : \mathsf{Nat}\ n}{\emptyset \vdash \texttt{succ}(e) : \mathsf{Nat}\ (n+1)}
+\dfrac{\Gamma \vdash e : \mathsf{Nat}\ n}{\Gamma \vdash \texttt{succ}(e) : \mathsf{Nat}\ (n+1)}
 \\[2em]
 \dfrac{\begin{array}{l}
        \Gamma \vdash e : \mathsf{Nat}\ n \\ \Gamma \vdash e_0 : \tau[0/\alpha] \\
