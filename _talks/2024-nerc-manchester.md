@@ -1,5 +1,5 @@
 ---
-title: Using types to rule out bugs: Python perspective
+title: Using types to rule out bugs- Python perspective
 month: March
 date: 19/03/2024
 year: 2024
