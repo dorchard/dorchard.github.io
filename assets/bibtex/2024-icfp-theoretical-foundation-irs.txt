@@ -1,0 +1,10 @@
+@article{torrens2024operational,
+  title={On the Operational Theory of the CPS-Calculus: Towards a Theoretical Foundation for IRs},
+  author={Torrens, Paulo and Orchard, Dominic and Vasconcellos, Cristiano},
+  journal={Proceedings of the ACM on Programming Languages},
+  volume={8},
+  number={ICFP},
+  pages={147--176},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
