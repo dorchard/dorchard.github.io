@@ -1,0 +1,13 @@
+@article{MARSHALL2024105234,
+title = {Non-linear communication via graded modal session types},
+journal = {Information and Computation},
+volume = {301},
+pages = {105234},
+year = {2024},
+issn = {0890-5401},
+doi = {https://doi.org/10.1016/j.ic.2024.105234},
+url = {https://www.sciencedirect.com/science/article/pii/S0890540124000993},
+author = {Danielle Marshall and Dominic Orchard},
+keywords = {Session types, Graded types, Communication patterns},
+abstract = {Session types provide guarantees about concurrent behaviour and can be understood through their correspondence with linear logic, with propositions as sessions and proofs as processes. However, strict linearity is limiting since there exist useful communication patterns that rely on non-linear behaviours. For example, shared channels can repeatedly spawn a process with binary communication along a fresh linear channel. Non-linearity can be introduced in a controlled way through the concept of graded modal types, which are a framework encompassing various kinds of coeffect (describing how computations make demands on their context). This paper shows how graded modalities can work alongside session types, enabling various non-linear concurrency behaviours to be re-introduced precisely. The ideas are demonstrated using Granule, a functional language with linear, indexed, and graded modal types. We define a core calculus capturing the requisite features and our new graded primitives, then present an operational model and establish various key properties.}
+}
