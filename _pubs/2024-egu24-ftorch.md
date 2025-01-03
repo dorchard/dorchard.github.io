@@ -9,6 +9,7 @@ authors:
   - Athena Elafrou
 title: "FTorch - lowering the technical barrier of incorporating ML into Fortran models"
 venue: "EGU General Assembly 2024"
+note: "EGU General Assembly 2024"
 date: 2024-04-20
 resource:
   type: pdf
