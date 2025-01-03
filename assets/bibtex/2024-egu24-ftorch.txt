@@ -1,0 +1,6 @@
+@techreport{orchard2024ftorch,
+  title={FTorch-lowering the technical barrier of incorporating ML into Fortran models},
+  author={Orchard, Dominic and Kasoar, Elliott and Atkinson, Jack and Meltzer, Thomas and Clifford, Simon and Elafrou, Athena},
+  year={2024},
+  institution={Copernicus Meetings}
+}
