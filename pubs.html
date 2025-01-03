@@ -14,6 +14,10 @@ sitemap:
   }
 </style>
 
+
+{% assign collection = site.pubs | sort: "date" | group_by: "type" %}
+
+<h3>Contents</h3>
 <ul>
 	<li><a href="#papers">Papers <span class="badge">{{ collection | where: "name", "article" | size }}</span></a></li>
 	<li><a href="#eabstracts">Extended abstracts <span class="badge">{{ collection | where: "name", "workshop" | size }}</span></a></li>
@@ -22,8 +26,8 @@ sitemap:
 	<li><a href="#dissertations">PhD dissertation</a></li>
 </ul>
 
+<h3>Publications</h3>
 
-{% assign collection = site.pubs | sort: "date" | group_by: "type" %}
 
 
 {% for group in collection %}
