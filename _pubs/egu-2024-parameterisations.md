@@ -7,6 +7,7 @@ authors:
   - Thomas Meltzer
 title: "Tools and techniques for modular, portable (Machine Learning) parameterisations"
 venue: "EGU General Assembly 2024"
+note: "EGU General Assembly 2024"
 date: 2024-04-20
 resource:
   type: pdf
