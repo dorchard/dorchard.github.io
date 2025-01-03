@@ -1,0 +1,21 @@
+@inproceedings{10.1145/3689492.3689812,
+author = {Aish, Robert and Fisher, Al and Orchard, Dominic and Torry, Jay},
+title = {Programming Languages for the Future of Design Computation},
+year = {2024},
+isbn = {9798400712159},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3689492.3689812},
+doi = {10.1145/3689492.3689812},
+abstract = {Design Computation is the use of programming in the design of physical systems such as buildings and infrastructure. This involves embedding both general-purpose textual languages and domain-specific visual languages within geometry modelling and engineering applications in the construction industry. A unique form of entry-level end-user programming has emerged in Design Computation. However, there are significant usability and representational issues; general-purpose languages present barriers to adoption, whilst visual languages do not scale to complex design problems.
+ 
+
+ 
+In this essay, we explore how advances in programming language research could be harnessed in future Design Computation languages to address these pedagogic, representational and scaling issues so as to improve human readable program structure and semantics and to enable machine-readable program verification.},
+booktitle = {Proceedings of the 2024 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software},
+pages = {241–265},
+numpages = {25},
+keywords = {Cognitive Dimensions, Collaborative Coding, Collection Types, Design Computation, End-User Programming, Program Verification, Programming Languages, Type Systems, Units of Measure, Usability, Visual Languages},
+location = {Pasadena, CA, USA},
+series = {Onward! '24}
+}
