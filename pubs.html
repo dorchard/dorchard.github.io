@@ -83,13 +83,12 @@ sitemap:
   
       {% for publication in pubs %}
 
-         {% assign currentyear = publication.year %}
-         {% if publication.year %}
-              {% unless (currentyear == year) %}
-                <span class='year'>{{ publication.year }}</span>
-              {% endunless %}
-              {% assign year = currentyear %}
-         {% endif %}
+	 {% assign currentyear = publication.year | default: publication.date | date: "%Y" %}
+
+        {% unless (currentyear == year) %}
+                <span class='year'>{{ currentyear }}</span>
+        {% endunless %}
+        {% assign year = currentyear %}
 
         <li class="list-group-item">
           {{ publication.authors | join: ', ' }}.
