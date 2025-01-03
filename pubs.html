@@ -17,8 +17,18 @@ sitemap:
     <ul class="list-group">
 
       {% assign pubs = group.items | sort: "date" | reverse %}
+      {% assign year = 0 %}
+  
       {% for publication in pubs %}
 
+         {% assign currentyear = publication.year %}
+         {% if publication.year %}
+              {% unless (currentyear == year) %}
+                <span class='year'>{{ publication.year }}</span>
+              {% endunless %}
+              {% assign year = currentyear %}
+         {% endif %}
+	    
         <li class="list-group-item">
           <strong>{{ publication.title }}</strong><br />
           {{ publication.authors | join: ', ' }}<br />
