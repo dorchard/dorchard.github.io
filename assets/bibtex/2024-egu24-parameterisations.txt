@@ -1,0 +1,6 @@
+@techreport{atkinson2024tools,
+  title={Tools and techniques for modular, portable (Machine Learning) parameterisations},
+  author={Atkinson, Jack and Orchard, Dominic and Kasoar, Elliott and Meltzer, Thomas},
+  year={2024},
+  institution={Copernicus Meetings}
+}
