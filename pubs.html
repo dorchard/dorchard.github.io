@@ -20,23 +20,30 @@ sitemap:
 
 {% assign collection = site.pubs | sort: "date" | group_by: "type" %}
 
-<h4>Contents</h4>
+{% for group in collection %}
+{% if group.name == 'article' %}
+  {% assign article_size = group.items | size %}
+{% elsif group.name == 'workshop' %}
+  {% assign eabstract_size = group.items | size %}	
+{% elsif group.name == 'unpublished' %}
+  {% assign unpublished_size = group.items | size %}	
+{% elsif group.name == 'bookreview' %}
+  {% assign bookreview_size = group.items | size %}	
+{% elsif group.name == 'thesis' %}
+{% endif %}
+{% endfor %}
+
+
+<h4>Categories</h4>
 <ul>
-	{% for group in collection %}
-	{% if group.name == 'article' %}
-	<li><a href="#papers">Papers <span class="badge">{{ group.items | size }}</span></a></li>
-	{% elsif group.name == 'workshop' %}
-	<li><a href="#eabstracts">Extended abstracts <span class="badge">{{ group.items | size }}</span></a></li>
-	{% elsif group.name == 'unpublished' %}
-	<li><a href="#unpublished">Unpublished manuscripts <span class="badge">{{ group.items | size }}</span></a></li>
-        {% elsif group.name == 'bookreview' %}
-	<li><a href="#bookreview">Book reviews <span class="badge">{{ group.items | size }}</span</a></li>
-	{% elsif group.name == 'thesis' %}
+	<li><a href="#papers">Papers <span class="badge">{{ article_size }}</span></a></li>
+	<li><a href="#eabstracts">Extended abstracts <span class="badge">{{ eabstract_size }}</span></a></li>
+	<li><a href="#unpublished">Unpublished manuscripts <span class="badge">{{ unpublished_size }}</span></a></li>
+        <li><a href="#bookreview">Book reviews <span class="badge">{{ bookreview_size }}</span</a></li>
 	<li><a href="#dissertations">PhD dissertation</a></li>
-	{% endif %}
-	{% endfor %}
 </ul>
 
+<br />
 
 
 {% for group in collection %}
@@ -167,7 +174,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'workshop' %}
 
-    <a name='eabstract' class='titlep'><h4>Peer-reviewed Extended abstracts <span class="badge">{{ group.items | size }}</span></h4></a>
+    <a name='eabstracts' class='titlep'><h4>Peer-reviewed Extended abstracts <span class="badge">{{ group.items | size }}</span></h4></a>
       <ul class="list-group">
 
       {% assign pubs = group.items | sort: "date" | reverse %}        
