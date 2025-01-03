@@ -14,13 +14,22 @@ sitemap:
   }
 </style>
 
+<ul>
+	<li><a href="#papers">Papers <span class="badge">{{ collection | where: "name", "article" | size }}</span></a></li>
+	<li><a href="#eabstracts">Extended abstracts <span class="badge">{{ collection | where: "name", "workshop" | size }}</span></a></li>
+	<li><a href="#unpublished">Unpublished manuscripts <span class="badge">{{ collection | where: "name", "unpublished" | size }}</span></a></li>
+	<li><a href="#bookreviews">Book reviews</a></li>
+	<li><a href="#dissertations">PhD dissertation</a></li>
+</ul>
+
+
 {% assign collection = site.pubs | sort: "date" | group_by: "type" %}
 
 
 {% for group in collection %}
     {% if group.name == 'draft' %}
 
-    <h4> Drafts <span class="badge">{{ group.items | size }}</span></h4>    
+    <a name='drafts'><h4> Drafts <span class="badge">{{ group.items | size }}</span></h4></a>
 
     <ul class="list-group">
 
@@ -75,7 +84,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'article' %}
 
-    <h4>Papers <span class="badge">{{ group.items | size }}</span></h4>
+    <a name='papers'><h4>Papers <span class="badge">{{ group.items | size }}</span></h4></a>
 
     <ul class="list-group">
 
@@ -145,7 +154,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'workshop' %}
 
-    <h4>Extended abstracts <span class="badge">{{ group.items | size }}</span></h4>
+    <a name='eabstract'><h4>Peer-reviewed Extended abstracts <span class="badge">{{ group.items | size }}</span></h4></a>
       <ul class="list-group">
 
       {% assign pubs = group.items | sort: "date" | reverse %}        
@@ -235,7 +244,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'unpublished' %}
 
-      <h4> Unpublished <span class="badge">{{ group.items | size }}</span></h4>
+      <a name='unpublished'><h4> Unpublished manuscripts <span class="badge">{{ group.items | size }}</span></h4></a>
     <ul class="list-group">
 
       {% assign pubs = group.items | sort: "year" | reverse %}
@@ -279,7 +288,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'bookreview' %}
 
-      <h4>Book reviews<span class="badge">{{ group.items | size }}</span></h4>
+      <a name='bookreviews'><h4>Book reviews<span class="badge">{{ group.items | size }}</span></h4></a>
     <ul class="list-group">
 
       {% assign pubs = group.items | sort: "year" | reverse %}
@@ -312,7 +321,7 @@ sitemap:
 {% for group in collection %}
     {% if group.name == 'thesis' %}
 
-      <h4>PhD Dissertation<span class="badge">{{ group.items | size }}</span></h4>
+      <a name='dissertations'><h4>PhD Dissertation<span class="badge">{{ group.items | size }}</span></h4></a>
     <ul class="list-group">
 
       {% assign pubs = group.items | sort: "year" | reverse %}
