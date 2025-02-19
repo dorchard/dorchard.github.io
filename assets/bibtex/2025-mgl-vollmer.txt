@@ -1,0 +1,21 @@
+@inproceedings{DBLP:conf/csl/Vollmer0EO25,
+  author       = {Victoria Vollmer and
+                  Danielle Marshall and
+                  Harley Eades III and
+                  Dominic Orchard},
+  editor       = {J{\"{o}}rg Endrullis and
+                  Sylvain Schmitz},
+  title        = {A Mixed Linear and Graded Logic: Proofs, Terms, and Models},
+  booktitle    = {33rd {EACSL} Annual Conference on Computer Science Logic, {CSL} 2025,
+                  February 10-14, 2025, Amsterdam, Netherlands},
+  series       = {LIPIcs},
+  volume       = {326},
+  pages        = {32:1--32:21},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  url          = {https://doi.org/10.4230/LIPIcs.CSL.2025.32},
+  doi          = {10.4230/LIPICS.CSL.2025.32},
+  timestamp    = {Tue, 04 Feb 2025 16:57:26 +0100},
+  biburl       = {https://dblp.org/rec/conf/csl/Vollmer0EO25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
