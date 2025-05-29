@@ -1,5 +1,5 @@
 ---
-title: Graded Types in Three Flavours: Effects, Coeffects, and Permissions
+title: Graded Types in Three Flavours - Effects, Coeffects, and Permissions
 month: May
 date: 07/05/2025
 year: 2025
