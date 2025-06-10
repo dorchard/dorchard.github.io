@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/esop/BondDNOP25,
+  author       = {Joseph Bond and
+                  Cristina David and
+                  Minh Nguyen and
+                  Dominic Orchard and
+                  Roly Perera},
+  editor       = {Viktor Vafeiadis},
+  title        = {Cognacy Queries over Dependence Graphs for Transparent Visualisations},
+  booktitle    = {Programming Languages and Systems - 34th European Symposium on Programming,
+                  {ESOP} 2025, Held as Part of the International Joint Conferences on
+                  Theory and Practice of Software, {ETAPS} 2025, Hamilton, ON, Canada,
+                  May 3-8, 2025, Proceedings, Part {I}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15694},
+  pages        = {144--171},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/978-3-031-91118-7\_6},
+  doi          = {10.1007/978-3-031-91118-7\_6},
+  timestamp    = {Sat, 31 May 2025 23:09:30 +0200},
+  biburl       = {https://dblp.org/rec/conf/esop/BondDNOP25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
