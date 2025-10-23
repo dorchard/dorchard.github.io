@@ -86,7 +86,7 @@ sitemap:
 
     <h3>Recent Blog Posts</h3>
     
-    {% assign recent_posts = site.blog | sort: 'date' | reverse | limit: 5 %}
+    {% assign recent_posts = site.blog | sort: 'date' | reverse | limit: 3 %}
     {% if recent_posts.size > 0 %}
     <ul class="blog-list-home">
       {% for post in recent_posts %}
