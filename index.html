@@ -86,10 +86,10 @@ sitemap:
 
     <h3>Recent Blog Posts</h3>
     
-    {% assign recent_posts = site.blog | sort: 'date' | reverse | limit: 3 %}
-    {% if recent_posts.size > 0 %}
+    {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
+    {% if sorted_posts.size > 0 %}
     <ul class="blog-list-home">
-      {% for post in recent_posts %}
+      {% for post in sorted_posts limit:3 %}
       <li class="blog-item-home">
         <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
         <span class="post-date-home"> - {{ post.date | date: "%B %d, %Y" }}</span>
