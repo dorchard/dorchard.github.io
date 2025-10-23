@@ -5,3 +5,6 @@ collections:
     output: false
   talks:
     output: false
+  blog:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/

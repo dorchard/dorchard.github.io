@@ -1,0 +1,116 @@
+---
+layout: default
+title: Blog
+---
+
+<div class="blog-container">
+  <div class="blog-sidebar">
+    <h3>Filter by Year</h3>
+    <ul id="year-filter" class="filter-list">
+      <li><a href="#all" class="filter-link active" data-filter="all">All</a></li>
+      {% assign posts_by_year = site.blog | sort: 'date' | reverse | group_by_exp: "post", "post.date | date: '%Y'" %}
+      {% for year_group in posts_by_year %}
+      <li><a href="#{{ year_group.name }}" class="filter-link" data-filter="year-{{ year_group.name }}">{{ year_group.name }}</a></li>
+      {% endfor %}
+    </ul>
+
+    <h3>Filter by Category</h3>
+    <ul id="category-filter" class="filter-list">
+      {% assign all_categories = "" | split: "" %}
+      {% for post in site.blog %}
+        {% for category in post.categories %}
+          {% unless all_categories contains category %}
+            {% assign all_categories = all_categories | push: category %}
+          {% endunless %}
+        {% endfor %}
+      {% endfor %}
+      {% assign sorted_categories = all_categories | sort %}
+      {% for category in sorted_categories %}
+      <li><a href="#{{ category | slugify }}" class="filter-link" data-filter="category-{{ category | slugify }}">{{ category }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="blog-main">
+    <h1>Blog</h1>
+    
+    {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
+    {% assign posts_by_year = sorted_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    
+    {% for year_group in posts_by_year %}
+    <div class="blog-year-section" data-year="{{ year_group.name }}">
+      <h2 class="blog-year-heading">{{ year_group.name }}</h2>
+      
+      {% for post in year_group.items %}
+      <article class="blog-post-summary" data-year="year-{{ post.date | date: '%Y' }}" data-categories="{% for category in post.categories %}category-{{ category | slugify }} {% endfor %}">
+        <h3 class="blog-post-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        <div class="blog-post-meta">
+          <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+          {% if post.categories %}
+          <span class="post-categories">
+            {% for category in post.categories %}
+            <a href="#{{ category | slugify }}" class="category-tag">{{ category }}</a>
+            {% endfor %}
+          </span>
+          {% endif %}
+        </div>
+        {% if post.excerpt %}
+        <div class="blog-post-excerpt">
+          {{ post.excerpt }}
+        </div>
+        {% endif %}
+        <a href="{{ post.url }}" class="read-more">Read more →</a>
+      </article>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+// Simple filtering functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const filterLinks = document.querySelectorAll('.filter-link');
+  const posts = document.querySelectorAll('.blog-post-summary');
+  
+  filterLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      // Remove active class from all links in the same filter group
+      const parentList = this.closest('.filter-list');
+      parentList.querySelectorAll('.filter-link').forEach(l => l.classList.remove('active'));
+      
+      // Add active class to clicked link
+      this.classList.add('active');
+      
+      const filter = this.getAttribute('data-filter');
+      
+      if (filter === 'all') {
+        posts.forEach(post => post.style.display = 'block');
+      } else {
+        posts.forEach(post => {
+          const postClasses = post.getAttribute('data-year') + ' ' + post.getAttribute('data-categories');
+          if (postClasses.includes(filter)) {
+            post.style.display = 'block';
+          } else {
+            post.style.display = 'none';
+          }
+        });
+      }
+      
+      // Update year headings visibility
+      document.querySelectorAll('.blog-year-section').forEach(section => {
+        const visiblePosts = section.querySelectorAll('.blog-post-summary[style="display: block;"], .blog-post-summary:not([style*="display: none"])');
+        if (filter === 'all' || visiblePosts.length > 0) {
+          section.style.display = 'block';
+        } else {
+          section.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>

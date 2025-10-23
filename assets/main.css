@@ -77,3 +77,274 @@ strong {
 #leftpane {
   margin-right:20px;
 }
+
+/* Blog Styles */
+
+/* Blog container with sidebar */
+.blog-container {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.blog-sidebar {
+  flex: 0 0 200px;
+  position: sticky;
+  top: 20px;
+  height: fit-content;
+}
+
+.blog-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.blog-sidebar h3 {
+  font-size: 1.1em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #555;
+}
+
+.blog-sidebar h3:first-child {
+  margin-top: 0;
+}
+
+.filter-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1em 0;
+}
+
+.filter-list li {
+  margin: 0.3em 0;
+}
+
+.filter-link {
+  color: #458;
+  text-decoration: none;
+  padding: 2px 8px;
+  border-radius: 3px;
+  display: inline-block;
+  transition: background-color 0.2s;
+}
+
+.filter-link:hover {
+  background-color: #f0f0f0;
+  text-decoration: none;
+}
+
+.filter-link.active {
+  background-color: #458;
+  color: white;
+  font-weight: bold;
+}
+
+/* Blog post summary on main blog page */
+.blog-year-heading {
+  color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+.blog-post-summary {
+  margin-bottom: 2.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #eee;
+}
+
+.blog-post-title {
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+}
+
+.blog-post-title a {
+  color: #222;
+  text-decoration: none;
+}
+
+.blog-post-title a:hover {
+  color: #458;
+}
+
+.blog-post-meta {
+  color: #666;
+  font-size: 0.95em;
+  margin-bottom: 0.8em;
+}
+
+.post-date {
+  margin-right: 1em;
+}
+
+.post-categories {
+  margin-left: 1em;
+}
+
+.category-tag {
+  background-color: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-right: 0.5em;
+  text-decoration: none;
+  color: #458;
+  font-size: 0.9em;
+  display: inline-block;
+}
+
+.category-tag:hover {
+  background-color: #458;
+  color: white;
+  text-decoration: none;
+}
+
+.blog-post-excerpt {
+  color: #444;
+  line-height: 1.6em;
+  margin-bottom: 0.8em;
+}
+
+.read-more {
+  color: #458;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+/* Individual blog post page */
+.blog-post {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.blog-post-header {
+  margin-bottom: 2em;
+}
+
+.blog-post-header h1 {
+  margin-bottom: 0.5em;
+}
+
+.blog-post-content {
+  line-height: 1.7em;
+}
+
+.blog-post-content h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.7em;
+}
+
+.blog-post-content h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.blog-post-content p {
+  margin-bottom: 1em;
+}
+
+.blog-post-content ul, .blog-post-content ol {
+  margin-bottom: 1em;
+  padding-left: 2em;
+}
+
+.blog-post-content li {
+  margin-bottom: 0.5em;
+}
+
+.blog-post-content code {
+  background-color: #f5f5f5;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+.blog-post-content pre {
+  background-color: #f5f5f5;
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin-bottom: 1em;
+}
+
+.blog-post-content pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+.blog-post-footer {
+  margin-top: 3em;
+}
+
+/* Blog posts on homepage */
+.blog-list-home {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.blog-item-home {
+  margin-bottom: 1.2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.blog-item-home:last-child {
+  border-bottom: none;
+}
+
+.post-date-home {
+  color: #666;
+  font-size: 0.9em;
+  margin-right: 1em;
+}
+
+.post-categories-home {
+  margin-left: 0.5em;
+}
+
+.category-tag-home {
+  background-color: #f0f0f0;
+  padding: 1px 6px;
+  border-radius: 3px;
+  margin-right: 0.4em;
+  color: #458;
+  font-size: 0.85em;
+  display: inline-block;
+}
+
+.post-excerpt-home {
+  color: #555;
+  font-size: 0.95em;
+  line-height: 1.5em;
+  display: block;
+  margin-top: 0.5em;
+}
+
+/* Responsive design for blog */
+@media (max-width: 768px) {
+  .blog-container {
+    flex-direction: column;
+  }
+  
+  .blog-sidebar {
+    position: static;
+    flex: 1;
+  }
+  
+  .filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
+  
+  .filter-list li {
+    margin: 0;
+  }
+}

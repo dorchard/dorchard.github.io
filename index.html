@@ -84,6 +84,33 @@ sitemap:
     </td></tr>
     </table>
 
+    <h3>Recent Blog Posts</h3>
+    
+    {% assign recent_posts = site.blog | sort: 'date' | reverse | limit: 5 %}
+    {% if recent_posts.size > 0 %}
+    <ul class="blog-list-home">
+      {% for post in recent_posts %}
+      <li class="blog-item-home">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br />
+        <span class="post-date-home">{{ post.date | date: "%B %d, %Y" }}</span>
+        {% if post.categories %}
+        <span class="post-categories-home">
+          {% for category in post.categories %}
+          <span class="category-tag-home">{{ category }}</span>
+          {% endfor %}
+        </span>
+        {% endif %}
+        {% if post.excerpt %}
+        <br /><span class="post-excerpt-home">{{ post.excerpt | strip_html | truncatewords: 25 }}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="/blog.html">See all blog posts →</a></p>
+    {% else %}
+    <p>No blog posts yet. Check back soon!</p>
+    {% endif %}
+
     <h3>Recent Publications</h3>
 
     {% for group in collection %}
