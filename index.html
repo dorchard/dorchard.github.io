@@ -91,8 +91,8 @@ sitemap:
     <ul class="blog-list-home">
       {% for post in recent_posts %}
       <li class="blog-item-home">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br />
-        <span class="post-date-home">{{ post.date | date: "%B %d, %Y" }}</span>
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+        <span class="post-date-home"> - {{ post.date | date: "%B %d, %Y" }}</span>
         {% if post.categories %}
         <span class="post-categories-home">
           {% for category in post.categories %}

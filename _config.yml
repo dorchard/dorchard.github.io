@@ -1,5 +1,14 @@
 name: Dominic Orchard
 highlighter: rouge
+
+# Defaults for blog posts
+defaults:
+  - scope:
+      path: "_blog"
+      type: "blog"
+    values:
+      layout: "blog-post"
+
 collections:
   pubs:
     output: false

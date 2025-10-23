@@ -1,9 +1,9 @@
 ---
 layout: blog-post
 title: "Exam advice"
-date: 2018-04-04
+date: "2018-04-04"
 categories: [advice]
-excerpt: "Part of my job is to give advice to my undergraduate students about exam technique and preparing for exams. I was always quite nervous about exams "back in the day", and I put a lot of effort into revising and planning. In retrospect, I think I enjoyed these times: I..."
+excerpt: "Part of my job is to give advice to my undergraduate students about exam technique and preparing for exams. I was always quite nervous about exams 'back in the day', and I put a lot of effort into revising and planning. In retrospect, I think I enjoyed these times: I..."
 wordpress_url: https://dorchard.wordpress.com/2018/04/04/exam-advice/
 ---
 
