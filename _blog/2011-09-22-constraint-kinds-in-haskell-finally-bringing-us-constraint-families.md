@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Constraint kinds in Haskell, finally bringing us constraint families"
-date: 2011-09-22
+date: "2011-09-22"
 categories: [haskell]
 excerpt: "Back in 2009 Tom Schrijvers and I wrote a paper entitled Haskell Type Constraints Unleashed [1] which appeared at FLOPS 2010 in April. In the paper we fleshed out the idea of adding constraint synyonyms and constraint families to GHC/Haskell, building upon various existing proposals for class families/indexed constraints. The..."
 wordpress_url: https://dorchard.wordpress.com/2011/09/22/constraint-kinds-in-haskell-finally-bringing-us-constraint-families/

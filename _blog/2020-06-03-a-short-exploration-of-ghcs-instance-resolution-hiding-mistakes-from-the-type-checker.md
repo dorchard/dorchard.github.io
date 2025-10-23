@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "A short exploration of GHC's instance resolution hiding mistakes from the type checker."
-date: 2020-06-03
+date: "2020-06-03"
 categories: [haskell]
 excerpt: "I was recently working on some Haskell code (for research, with Jack Hughes) and happened to be using a monoid (via the Monoid type class) and I was rushing. I accidentally wrote x `mempty` y instead of x `mappend` y. The code with mempty type checked and compiled, but I..."
 wordpress_url: https://dorchard.wordpress.com/2020/06/03/a-short-exploration-of-ghcs-instance-resolution-hiding-mistakes-from-the-type-checker/

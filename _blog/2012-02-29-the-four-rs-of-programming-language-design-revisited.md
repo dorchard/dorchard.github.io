@@ -1,9 +1,9 @@
 ---
 layout: blog-post
 title: "The Four Rs of Programming Language Design (revisited)"
-date: 2012-02-29
+date: "2012-02-29"
 categories: [programming languages]
-excerpt: "Following my blog post last year about the "four Rs of programming language design" I wrote a short essay expanding upon the idea which has now been included in the online post-proceedings of the ACM Onward '11 essay track (part of the SPLASH conference). The essay was a lot of..."
+excerpt: "Following my blog post last year about the 'four Rs of programming language design' I wrote a short essay expanding upon the idea which has now been included in the online post-proceedings of the ACM Onward '11 essay track (part of the SPLASH conference). The essay was a lot of..."
 wordpress_url: https://dorchard.wordpress.com/2012/02/29/the-four-rs-of-programming-language-design-revisited/
 ---
 

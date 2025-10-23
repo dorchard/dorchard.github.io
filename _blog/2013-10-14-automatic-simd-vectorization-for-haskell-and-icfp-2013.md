@@ -1,9 +1,9 @@
 ---
 layout: blog-post
 title: "Automatic SIMD Vectorization for Haskell and ICFP 2013"
-date: 2013-10-14
+date: "2013-10-14"
 categories: [paper, programming languages]
-excerpt: "I had a great time at ICFP 2013 this year where I presented my paper "Automatic SIMD Vectorization for Haskell", which was joint work with Leaf Petersen and Neal Glew of Intel Labs. The full paper and slides are available online. Our paper details the vectorization process in the Intel..."
+excerpt: "I had a great time at ICFP 2013 this year where I presented my paper 'Automatic SIMD Vectorization for Haskell', which was joint work with Leaf Petersen and Neal Glew of Intel Labs. The full paper and slides are available online. Our paper details the vectorization process in the Intel..."
 wordpress_url: https://dorchard.wordpress.com/2013/10/14/automatic-simd-vectorization-for-haskell-and-icfp-2013/
 ---
 

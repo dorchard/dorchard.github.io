@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "The Koch Snowflake"
-date: 2009-02-18
+date: "2009-02-18"
 categories: [general]
 excerpt: "This post has been imported from my old blog. I mentioned a couple of weeks ago I was going to write a post about a certain fractal. Now I have finally gotten round to writing something it has come at a very appropriate time as Britain has seen an unusual..."
 wordpress_url: https://dorchard.wordpress.com/2009/02/18/the-koch-snowflake/

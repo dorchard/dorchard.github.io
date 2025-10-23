@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Paper: Ypnos, Declarative Parallel Structured Grid Programming"
-date: 2009-09-29
+date: "2009-09-29"
 categories: [haskell, paper, programming languages]
 excerpt: "Max Bolingbroke, Alan Mycroft, and I have written a paper on a new DSL for programming structured grid computations with the view to parallelisation, called Ypnos, submitted to DAMP '10] Abstract: A fully automatic, compiler-driven approach to parallelisation can result in unpredictable time and space costs for compiled code. On..."
 wordpress_url: https://dorchard.wordpress.com/2009/09/29/paper-ypnos-declarative-parallel-structured-grid-programming/

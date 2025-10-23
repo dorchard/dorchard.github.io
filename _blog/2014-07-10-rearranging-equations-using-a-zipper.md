@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Rearranging equations using a zipper "
-date: 2014-07-10
+date: "2014-07-10"
 categories: [haskell, maths]
 excerpt: "Whilst experimenting with some ideas for a project, I realised I needed a quick piece of code to rearrange equations (defined in terms of +, *, -, and /) in AST form, e.g., given an AST for the equation x = y + 3, rearrange to get y = x..."
 wordpress_url: https://dorchard.wordpress.com/2014/07/10/rebalancing-equations-using-a-zipper/

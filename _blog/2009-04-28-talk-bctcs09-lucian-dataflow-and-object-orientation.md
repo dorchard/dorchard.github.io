@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Talk: @BCTCS'09 "Lucian: Dataflow and Object Orientation""
-date: 2009-04-28
+date: "2009-04-28"
 categories: [Slides]
 excerpt: "Slides from my BCTCS talk entitled Lucian: Dataflow and Object Orientation: BCTCS '09 was held at Warwick University- the university that I studied for my undergraduate degree at. I enjoyed the conference particularly, as I got to spend time with Steve Matthews and Sara Kalvala (my undergraduate project supervisors from..."
 wordpress_url: https://dorchard.wordpress.com/2009/04/28/talk-bctcs09-lucian-dataflow-and-object-orientation/

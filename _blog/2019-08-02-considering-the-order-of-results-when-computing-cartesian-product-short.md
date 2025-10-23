@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Considering the order of results when computing Cartesian product [short]"
-date: 2019-08-02
+date: "2019-08-02"
 categories: [haskell, maths]
 excerpt: "Sometimes in programming you need to do a pairwise comparison of some elements coming from two collections, for example, checking possible collisions between particles (which may be embedded inside a quadtree representation for efficiency). A handy operation is then the Cartesian product of the two sets of elements, to get..."
 wordpress_url: https://dorchard.wordpress.com/2019/08/02/considering-the-order-of-results-when-computing-cartesian-product-short/

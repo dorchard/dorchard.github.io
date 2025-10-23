@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "An afternoon of DTT/theorem provers: Agda and Coq"
-date: 2015-03-02
+date: "2015-03-02"
 categories: [theorem provers]
 excerpt: "Note from 23rd August, 2017 I found this draft blog post lying around, written in the spring of 2015 while I was working at Imperial College London as a Research Associate in the Mobility Reading Group with Nobuko Yoshida. This was the fruit of a discussion with Tiago Cogumbreiro where..."
 wordpress_url: https://dorchard.wordpress.com/2015/03/02/an-afternoon-of-dtttheorem-provers-agda-and-coq/

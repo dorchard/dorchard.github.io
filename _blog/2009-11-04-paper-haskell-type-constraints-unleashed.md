@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Paper: Haskell Type Constraints Unleashed"
-date: 2009-11-04
+date: "2009-11-04"
 categories: [paper]
 excerpt: "Tom Schrijvers and I have a new paper describing extensions to Haskell's type-constraint term language, which considerably increases its flexibility. These extensions are particularly useful when writing polymorphic EDSLs in Haskell, thus expanding Haskell's capacity for embedding DSLs. Abstract: The popular Glasgow Haskell Compiler extends the Haskell 98 type system..."
 wordpress_url: https://dorchard.wordpress.com/2009/11/04/paper-haskell-type-constraints-unleashed/

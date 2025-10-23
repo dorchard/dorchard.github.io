@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "FSCD day 4 - rough notes"
-date: 2017-09-07
+date: "2017-09-07"
 categories: [conference notes]
 excerpt: "(Blog posts for Day 1, Day 2, Day 3, Day 4 (half day)) I decided to take electronic notes at ICFP and FSCD (colocated) this year, and following the example of various people who put their conference notes online (which I've found useful), I thought I would attempt the same...."
 wordpress_url: https://dorchard.wordpress.com/2017/09/07/fscd-day-4-rough-notes/

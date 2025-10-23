@@ -1,9 +1,9 @@
 ---
 layout: blog-post
 title: "The four "R"s of programming language design"
-date: 2011-03-21
+date: "2011-03-21"
 categories: [programming languages]
-excerpt: "Because I have some serious work to do for an impending deadline I have become particularly good at inventing ways to not work that I can convince myself are "worthwhile". To this end I have decided to post on my (dead) blog, which I am planning to revive with at..."
+excerpt: "Because I have some serious work to do for an impending deadline I have become particularly good at inventing ways to not work that I can convince myself are 'worthwhile'. To this end I have decided to post on my (dead) blog, which I am planning to revive with at..."
 wordpress_url: https://dorchard.wordpress.com/2011/03/21/the-four-rs-of-programming-language-design/
 ---
 

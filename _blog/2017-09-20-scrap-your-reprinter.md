@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Scrap Your Reprinter"
-date: 2017-09-20
+date: "2017-09-20"
 categories: [paper, programming languages]
 excerpt: "Back in 2013, Andrew Rice and I were doing some initial groundwork on how to build tools to help scientists write better code (e.g., with the help of refactoring tools and verification tools). We talked to a lot of scientists who wrote Fortran almost exclusively, so we started creating infrastructure..."
 wordpress_url: https://dorchard.wordpress.com/2017/09/20/scrap-your-reprinter/
