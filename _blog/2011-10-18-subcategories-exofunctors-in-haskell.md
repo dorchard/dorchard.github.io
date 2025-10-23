@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Subcategories & "Exofunctors" in Haskell"
+title: "Subcategories & 'Exofunctors' in Haskell"
 date: "2011-10-18"
 categories: [haskell, maths]
 excerpt: "In my previous post I discussed the new constraint kinds extension to GHC, which provides a way to get type-indexed constraint families in GHC/Haskell. The extension provides some very useful expressivity. In this post I'm going to explain a possible use of the extension. In Haskell the Functor class is..."
