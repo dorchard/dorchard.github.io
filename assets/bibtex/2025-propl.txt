@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3759536.3763801,
+author = {Baramashetru, Chinmayi and Orchard, Dominic},
+title = {Towards Modelling and Verification of Coupler Behaviour in Climate Models},
+year = {2025},
+isbn = {9798400721618},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3759536.3763801},
+doi = {10.1145/3759536.3763801},
+abstract = {Climate models and earth system models often comprise submodels composed via a 'coupler', a software component that enables interaction between submodel components. The continuous exchange of data through couplers creates the risk of subtle errors propagating across components, potentially distorting scientific conclusions. In this paper, we argue for lightweight formal verification techniques applied at the coupler interface to improve both coupler and model correctness. By enforcing formal contracts on data exchanges, the coupler can act as a checkpoint that detects and prevents certain classes of component-level errors before they propagate between models. We abstract general design principles for couplers and propose verifiable subsystems. Using an example of a real-world bug, we illustrate a hybrid verification strategy that integrates module-level contracts, verified through both static and runtime techniques. We aim to offer a practical pathway for both existing and future couplers, ultimately enabling auditable and formally verifiable couplers.},
+booktitle = {Proceedings of the 2nd ACM SIGPLAN International Workshop on Programming for the Planet},
+pages = {1–7},
+numpages = {7},
+keywords = {Climate Models, Couplers, Formal Methods, Verification},
+location = {Singapore, Singapore},
+series = {PROPL '25}
+}

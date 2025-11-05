@@ -1,0 +1,21 @@
+@article{DBLP:journals/jossw/AtkinsonEKWMCOE25,
+  author       = {Jack Atkinson and
+                  Athena Elafrou and
+                  Elliott Kasoar and
+                  Joseph G. Wallwork and
+                  Thomas Meltzer and
+                  Simon Clifford and
+                  Dominic Orchard and
+                  Chris Edsall},
+  title        = {FTorch: a library for coupling PyTorch models to Fortran},
+  journal      = {J. Open Source Softw.},
+  volume       = {10},
+  number       = {109},
+  pages        = {7602},
+  year         = {2025},
+  url          = {https://doi.org/10.21105/joss.07602},
+  doi          = {10.21105/JOSS.07602},
+  timestamp    = {Sat, 31 May 2025 23:16:38 +0200},
+  biburl       = {https://dblp.org/rec/journals/jossw/AtkinsonEKWMCOE25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

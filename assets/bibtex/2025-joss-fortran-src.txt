@@ -1,0 +1,20 @@
+@article{DBLP:journals/jossw/ContrastinCDOORX25,
+  author       = {Mistral Contrastin and
+                  Raoul Hidalgo Charman and
+                  Matthew Danish and
+                  Benjamin Orchard and
+                  Dominic Orchard and
+                  Andrew Rice and
+                  Jason Xu},
+  title        = {fortran-src: Fortran static analysis infrastructure},
+  journal      = {J. Open Source Softw.},
+  volume       = {10},
+  number       = {106},
+  pages        = {7571},
+  year         = {2025},
+  url          = {https://doi.org/10.21105/joss.07571},
+  doi          = {10.21105/JOSS.07571},
+  timestamp    = {Tue, 08 Apr 2025 20:24:16 +0200},
+  biburl       = {https://dblp.org/rec/journals/jossw/ContrastinCDOORX25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

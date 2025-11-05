@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/array/BachurskiMO25,
+  author       = {Jakub Bachurski and
+                  Alan Mycroft and
+                  Dominic Orchard},
+  editor       = {Sven{-}Bodo Scholz and
+                  Artjoms Sinkarovs},
+  title        = {Structuring Arrays with Algebraic Shapes},
+  booktitle    = {Proceedings of the 11th {ACM} {SIGPLAN} International Workshop on
+                  Libraries, Languages and Compilers for Array Programming, {ARRAY}
+                  2025, Seoul, Republic of Korea, 17 June 2025},
+  pages        = {1--16},
+  publisher    = {{ACM}},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3736112.3736141},
+  doi          = {10.1145/3736112.3736141},
+  timestamp    = {Sun, 06 Jul 2025 13:23:39 +0200},
+  biburl       = {https://dblp.org/rec/conf/array/BachurskiMO25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
