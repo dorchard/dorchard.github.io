@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Quick toggling GenAI autocomplete"
+title: "Quick toggling on/off of GenAI autocomplete"
 date: "2025-11-19"
 categories: [programming, productivity]
 excerpt: "A simple keyboard shortcut to quickly toggle GitHub Copilot on and off in VS Code when you want temporary AI assistance."
@@ -51,4 +51,8 @@ So your file should look something like:
 
 With this it is easy to toggle the auto complete on to get some help (hopefully just writing some code I was going to write anyway!)
 and then I can easily toggle it off when things get annoying (often!), or I really need or want to figure
-it out myself. I have it off a lot of the time, but it's useful to be able to flick it on, and then back off again, occasionally. Hope this helps someone! I'm always recommending to students to get proficient with keyboard shortcuts and customising their workflow to be as efficient as possible, to enable focussed work rather than losing time to navigating a UI and context-switch overhead.
+it out myself. I have it off a lot of the time, but it's useful to be able to flick it on, and then back off again, occasionally.
+Of course, if you are in another editor, there will be another editor-specific way of doing this, but I'd definitely recommend having
+a keyboard shortcut like this if this is a feature you use often.
+
+Hopefully this helps someone! I'm always recommending to students to get proficient with keyboard shortcuts and customising their workflow to be as efficient as possible, to enable focussed work rather than losing time to navigating a UI and context-switch overhead.
