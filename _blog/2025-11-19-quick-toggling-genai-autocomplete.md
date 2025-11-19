@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Quick toggling on/off of GenAI autocomplete"
+title: "Quick on/off toggling of GenAI autocomplete"
 date: "2025-11-19"
 categories: [programming, productivity]
 excerpt: "A simple keyboard shortcut to quickly toggle GitHub Copilot on and off in VS Code when you want temporary AI assistance."
