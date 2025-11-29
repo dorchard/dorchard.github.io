@@ -1,0 +1,8 @@
+@incollection{liepelt2025graded,
+  title={On Graded Coeffect Types for Information-Flow Control},
+  author={Liepelt, Vilem-Benjamin and Marshall, Danielle and Orchard, Dominic and Rajani, Vineet and Vollmer, Michael},
+  booktitle={Languages, Compilers, Analysis-From Beautiful Theory to Useful Practice: Essays Dedicated to Alan Mycroft on the Occasion of His Retirement},
+  pages={114--148},
+  year={2025},
+  publisher={Springer}
+}
