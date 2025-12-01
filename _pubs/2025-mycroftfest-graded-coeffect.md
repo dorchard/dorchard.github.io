@@ -7,7 +7,7 @@ authors:
   - Vineet Rajani
   - Michael Vollmer
 title: "On Graded Coeffect Types for Information-Flow Control"
-venue: "Mycroft Festschrift 2026"
+venue: "Languages, Compilers, Analysis - From Beautiful Theory to Useful Practice: Essays Dedicated to Alan Mycroft on the Occasion of His Retirement. Springer Nature Switzerland. pp. 114-148."
 note: "Languages, Compilers, Analysis - From Beautiful Theory to Useful Practice: Essays Dedicated to Alan Mycroft on the Occasion of His Retirement. Springer Nature Switzerland. pp. 114-148."
 date: 2025-12-01
 resource:
