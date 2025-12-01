@@ -9,7 +9,7 @@ and Petricek, Tomas
 and Singer, Jeremy",
 title="On Graded Coeffect Types for Information-Flow Control",
 bookTitle="Languages, Compilers, Analysis - From Beautiful Theory to Useful Practice: Essays Dedicated to Alan Mycroft on the Occasion of His Retirement",
-year="2026",
+year="2025",
 publisher="Springer Nature Switzerland",
 address="Cham",
 pages="114--148",
