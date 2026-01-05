@@ -1,7 +1,0 @@
-@article{orchard2012should,
-  title={Should I use a Monad or a Comonad},
-  author={Orchard, Dominic},
-  journal={Unpublished draft},
-  year={2012},
-  publisher={Citeseer}
-}

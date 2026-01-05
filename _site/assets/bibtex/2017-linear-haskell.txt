@@ -1,8 +1,0 @@
-@article{orchard2017session,
-  title={Session types with linearity in Haskell},
-  author={Orchard, Dominic and Yoshida, Nobuko},
-  journal={Behavioural Types: from Theory to Tools},
-  pages={219},
-  year={2017},
-  publisher={River Publishers}
-}
