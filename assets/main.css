@@ -218,7 +218,7 @@ strong {
 
 /* Individual blog post page */
 .blog-post {
-  max-width: 800px;
+  max-width: 650px;
   margin: 0 auto;
 }
 
@@ -232,6 +232,7 @@ strong {
 
 .blog-post-content {
   line-height: 1.7em;
+  text-align: justify;
 }
 
 .blog-post-content h2 {
@@ -351,7 +352,7 @@ strong {
 
 /* Giscus Comments */
 .giscus-comments {
-  max-width: 800px;
+  max-width: 650px;
   margin: 3em auto 2em;
   padding-top: 2em;
   border-top: 2px solid #ddd;
