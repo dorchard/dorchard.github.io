@@ -218,9 +218,9 @@ strong {
 
 /* Individual blog post page */
 .blog-post {
-  max-width: 50%;
-  min-width: 400px;
+  max-width: 600px;
   margin: 0 auto;
+  padding: 0 1em;
 }
 
 .blog-post-header {
