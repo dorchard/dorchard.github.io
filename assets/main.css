@@ -330,7 +330,7 @@ strong {
 }
 
 /* Responsive design for blog */
-@media (max-width: 768px) {
+@media (max-width: 650px) {
   .blog-container {
     flex-direction: column;
   }
