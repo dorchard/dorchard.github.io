@@ -1,0 +1,7 @@
+@inproceedings{OrchardLiepelt2017Gram,
+  author    = {Dominic Orchard and Vilem-Benjamin Liepelt},
+  title     = {Gram: A linear functional language with graded modal types (extended abstract)},
+  booktitle = {Workshop on Trends in Linear Logic and Applications (TLLA)},
+  year      = {2017},
+  url       = {https://www.cs.ox.ac.uk/conferences/fscd2017/preproceedings_unprotected/TLLA_Orchard.pdf},
+}
