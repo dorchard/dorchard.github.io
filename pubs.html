@@ -29,6 +29,8 @@ sitemap:
   {% assign unpublished_size = group.items | size %}	
 {% elsif group.name == 'bookreview' %}
   {% assign bookreview_size = group.items | size %}	
+{% elsif group.name == 'other-articles' %}
+  {% assign otherarticles_size = group.items | size %}	
 {% elsif group.name == 'thesis' %}
 {% endif %}
 {% endfor %}
@@ -40,6 +42,7 @@ sitemap:
 	<li><a href="#eabstracts">Extended abstracts <span class="badge">{{ eabstract_size }}</span></a></li>
 	<li><a href="#unpublished">Unpublished manuscripts <span class="badge">{{ unpublished_size }}</span></a></li>
         <li><a href="#bookreview">Book reviews <span class="badge">{{ bookreview_size }}</span</a></li>
+        <li><a href="#otherarticles">Other articles <span class="badge">{{ otherarticles_size }}</span></a></li>
 	<li><a href="#dissertations">PhD dissertation</a></li>
 </ul>
 
@@ -309,6 +312,38 @@ sitemap:
     {% if group.name == 'bookreview' %}
 
       <a name='bookreview' class='titlep'><h4>Book reviews<span class="badge">{{ group.items | size }}</span></h4></a>
+    <ul class="list-group">
+
+      {% assign pubs = group.items | sort: "year" | reverse %}
+      {% for publication in pubs %}
+
+        <li class="list-group-item">
+          {{ publication.authors | join: ', ' }}.
+          <strong>{{ publication.title }}</strong>.          
+          {% if publication.venue %}{{ publication.venue }}.{% endif %}
+          {% if publication.note %}<i>{{ publication.note }}.</i>{% endif %}
+          {% if publication.year %}<i>{{ publication.year }}.</i>{% endif %}
+          {% if publication.resource %}
+            {% if publication.resource.bibtex %}
+	      [<a href="assets/bibtex/{{ publication.resource.bibtex }}.txt">Bibtex</a>]
+            {% endif %}
+            {% if publication.resource.slides %}
+              [<a href="{{ publication.resource.slides }}">Slides</a>]
+            {% endif %} 
+	    {% if publication.resource.pdf-url %}
+	      [<a href="{{ publication.resource.pdf-url }}">PDF</a>]
+      {% endif %}
+      {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+   {% endif %}
+{% endfor %}    
+
+{% for group in collection %}
+    {% if group.name == 'other-articles' %}
+
+      <a name='otherarticles' class='titlep'><h4>Other articles<span class="badge">{{ group.items | size }}</span></h4></a>
     <ul class="list-group">
 
       {% assign pubs = group.items | sort: "year" | reverse %}

@@ -9,5 +9,6 @@ note: "PROPL '25: Proceedings of the 2nd ACM SIGPLAN International Workshop on P
 date: 2025-01-01
 resource:
   doi-pdf: https://doi.org/10.1145/3759536.3763801
+  pdf-url: https://dl.acm.org/doi/pdf/10.1145/3759536.3763801
   bibtex: 2025-propl
 ---
