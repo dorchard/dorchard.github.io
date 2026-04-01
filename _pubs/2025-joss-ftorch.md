@@ -15,6 +15,6 @@ note: "J. Open Source Softw. 10(109): 7602 (2025)"
 date: 2025-01-01
 resource:
   doi-pdf: https://doi.org/10.21105/joss.07602
-  pdf-rul: https://www.theoj.org/joss-papers/joss.07602/10.21105.joss.07602.pdf
+  pdf-url: https://www.theoj.org/joss-papers/joss.07602/10.21105.joss.07602.pdf
   bibtex: 2025-joss-ftorch
 ---
