@@ -69,6 +69,10 @@ Some videos of talks I have given about my work in various different venues.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/9lh6lv9dKT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### OOPSLA 2017 - Verifying Spatial Properties of Array Computations
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Wi2_1EoBjQE?si=xeyKHsr0bLdc3LWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### ICFP 2016 - Combining effects and coeffects via grading
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/l1ZNMT3fQCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
