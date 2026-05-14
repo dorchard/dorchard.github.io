@@ -14,7 +14,9 @@ Some videos of talks I have given about my work in various different venues.
 
 ### From C to Comonads to Climate: A Functional Programmer's Journey in Array Programming, Keynote at FProPer 2024 (ACM SIGPLAN Workshop on Functional Programming for Productivity and Performance), September 2024
 
-[Video available on YouTube](https://www.youtube.com/watch?v=y_tJKfLlfFk)
+<!-- [Video available on YouTube](https://www.youtube.com/watch?v=y_tJKfLlfFk) -->
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/y_tJKfLlfFk?si=U4VlrPPJ5j-sW5Me" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### What could the next 30 years of software verification in climate science look like?. Workshop on Correctness and Reproducibility for Climate and Weather Software, NCAR, Colorado, November 2023
