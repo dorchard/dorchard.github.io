@@ -20,6 +20,8 @@ Later as a lecturer, I developed a 1-page table (and have distributed 100s of co
 the years) that can be used instead. It has a progressive style where topics can be deleted and moved
 to the right to indicate when something is going from 'not understood' to 'understood' and then 'mastered'. 
 
+[![Preview of the aide mémoire table](/assets/aide-preview.png)](https://github.com/dorchard/dorchard.github.io/raw/main/aide.pdf)
+
 [Download a copy of the table](https://github.com/dorchard/dorchard.github.io/raw/main/aide.pdf)
 
 The source code can be found here: [https://gist.github.com/dorchard/562e2aa85bf95acce606fa24c4ec80d0](https://gist.github.com/dorchard/562e2aa85bf95acce606fa24c4ec80d0)
