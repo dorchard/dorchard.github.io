@@ -89,6 +89,7 @@ sitemap:
     
     {% assign sorted_posts = site.blog | sort: 'date' | reverse %}
     {% if sorted_posts.size > 0 %}
+   <p><a href="/blog.html">See all blog posts →</a></p>
     <ul class="blog-list-home">
       {% for post in sorted_posts limit:3 %}
       <li class="blog-item-home">
@@ -107,7 +108,6 @@ sitemap:
       </li>
       {% endfor %}
     </ul>
-    <p><a href="/blog.html">See all blog posts →</a></p>
     {% else %}
     <p>No blog posts yet. Check back soon!</p>
     {% endif %}
