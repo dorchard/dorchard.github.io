@@ -19,7 +19,7 @@ about it. I found this to be very helpful.
 Later as a lecturer, I developed a 1-page table (and have distributed 100s of copies to students over
 the years) that can be used instead:
 
-<a href="https://github.com/dorchard/dorchard.github.io/raw/main/aide.pdf"><img src="/assets/aide-preview.png" alt="Preview of the aide mémoire table" style="width:70%;" /></a>
+<a href="https://github.com/dorchard/dorchard.github.io/raw/main/aide.pdf"><img src="/assets/aide-preview.png" alt="Preview of the aide mémoire table" style="width:84%;" /></a>
 
 It has a progressive style where topics can be deleted and moved
 to the right to indicate when something is going from 'not understood' to 'improving' (need to get better at)
