@@ -121,8 +121,8 @@ sitemap:
 
         <ul class="list-group">
 
-          {% assign pubs = group.items | sort: "date" | reverse | limit: 10 %}
-          {% for publication in pubs %}
+          {% assign pubs = group.items | sort: "date" | reverse %}
+          {% for publication in pubs limit:10 %}
 
             <li class="list-group-item">
               <b>{{ publication.title }}</b><br />
