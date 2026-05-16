@@ -18,8 +18,8 @@ about it. I found this to be very helpful.
 
 Later as a lecturer, I developed a 1-page table (and have distributed 100s of copies to students over
 the years) that can be used instead. It has a progressive style where topics can be deleted and moved
-to the right to indicate when something is going from 'not understood' to 'understood' and then 'mastered'. You can download a copy of this table here:
+to the right to indicate when something is going from 'not understood' to 'understood' and then 'mastered'. 
 
-https://github.com/dorchard/dorchard.github.io/blob/main/aide.pdf
+[Download a copy of the table](https://github.com/dorchard/dorchard.github.io/raw/main/aide.pdf)
 
-The source code can be found here: https://gist.github.com/dorchard/562e2aa85bf95acce606fa24c4ec80d0
+The source code can be found here: [https://gist.github.com/dorchard/562e2aa85bf95acce606fa24c4ec80d0](https://gist.github.com/dorchard/562e2aa85bf95acce606fa24c4ec80d0)
