@@ -3,11 +3,9 @@ layout: advice-post
 title: "Exam advice"
 ---
 
-(by Dominic Orchard, School of Computing, University of Kent, 2018)
-
 **Disclaimer**: this advice is non exhaustive, and every piece of advice might not suit you. At least, I hope it helps you to think about how you can develop your own strategy for exam preparation.
 
-My top tip is to see exams as *formative* rather than purely about assessment. This is an opportunity to force yourself to  learn a topic deeply, which will then benefit you in the future, rather than a box ticking exercise to get a fancy piece of paper at the end. This will orient your attitude to maximising your potential.
+My top tip is to see exams as *formative* rather than purely about assessment. This is an opportunity to force yourself to learn a topic deeply, which will then benefit you in the future, rather than a box ticking exercise to get a fancy piece of paper at the end. This will orient your attitude to maximising your potential.
 
 Exams are hard. They occupy a short space of time in your whole life but they can have a big impact on the rest of it, so make the most of them. Study well and study wisely.
 
@@ -48,7 +46,7 @@ Exams are hard. They occupy a short space of time in your whole life but they ca
  
  * Where possible, check and verify your work. Think about how you can do this in the case of formal/mathematical/technical questions.
  
- * If you need to use the toilet and its becoming distracting, ask the invigilator if you can go. Its better to spend 3 minutes on a bathroom break than to loose concentration due to being distracted.
+ * If you need to use the toilet and its becoming distracting, ask the invigilator if you can go. It's better to spend 3 minutes on a bathroom break than to lose concentration due to being distracted.
  
  * Use all the time you have. If you find you have extra time, go back and check and recheck your answers. Consider adding more detail to some answers. Make sure you have adhered to the exam requirements such as numbering and location of your answers.
  
