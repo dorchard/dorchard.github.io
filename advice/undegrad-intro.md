@@ -1,6 +1,6 @@
 ---
 layout: advice-post
-title: "Advice for new (computer science) undergraduates"
+title: "Advice for new undergraduates"
 ---
 
 * The University is like a wet sponge. The amount you get out depends on how hard you squeeze.
@@ -23,7 +23,7 @@ title: "Advice for new (computer science) undergraduates"
 
 * Find a good group of friends, anywhere in the University.
 
-* Learn things outside of the course, but that are still Computer Science.
+* Learn things outside of the course, from within your discipline, and without.
 
 * Use programming to understand maths, e.g., implement some of the ideas, write a program that uses the concepts.
 
