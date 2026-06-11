@@ -10,5 +10,6 @@ note: "ARRAY '25: Proceedings of the 11th ACM SIGPLAN International Workshop on 
 date: 2025-06-17
 resource:
   doi-pdf: https://doi.org/10.1145/3736112.3736141
+  pdf-url: https://dl.acm.org/doi/pdf/10.1145/3736112.3736141
   bibtex: 2025-array
 ---
