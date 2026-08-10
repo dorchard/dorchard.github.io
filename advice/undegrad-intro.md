@@ -1,6 +1,6 @@
 ---
 layout: advice-post
-title: "Advice for new undergraduates"
+title: "Advice for undergraduates"
 ---
 
 * The University is like a wet sponge. The amount you get out depends on how hard you squeeze.
