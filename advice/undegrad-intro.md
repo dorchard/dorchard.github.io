@@ -5,7 +5,9 @@ title: "Advice for undergraduates"
 
 * The University is like a wet sponge. The amount you get out depends on how hard you squeeze.
 
-* University is not school. The balance of responsibility shifts to you. Also no 'sir'/'miss'. First names are the norm.
+* Follow your interests. Find sub-areas of your subject that you really like and become an expert in them.
+
+* University is not school. The balance of responsibility shifts to you. Also no 'sir'/'miss'. First names are the norm (in the UK).
 
 * Learning does not just happen in the lecture theatre. It happens in the seminar rooms. It happens in your *own* reading and research.
 
