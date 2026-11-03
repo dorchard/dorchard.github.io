@@ -27,13 +27,15 @@ software in ways that stimulate new ideas and approaches, help avoid
 misunderstandings and bugs, and reduce effort in the code development
 process.
 
-<p class="callout">Good interfaces communicate intent and ideas.</p>
-
 All such benefits can be harvested by both humans *and*
 computers, and not just LLMs. Analytical processes like static
 analysis tools and compilers can also benefit from abstractions that
 expose more information about a program and provide increased
 modularisation, which helps with scalability.
+
+
+<p class="callout">Good interfaces communicate intent and ideas.</p>
+
 
 The role of documentation is also important here and has a non-trivial
 interaction with software design. Good documentation can lessen some
