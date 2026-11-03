@@ -43,11 +43,8 @@ interface. Intuitively, documentation should have a role to play in improved
 LLM performance as well. One study looking at the relationship
 between documentation and the ability to generate
 unit tests did not yield a strong correlation <a class="cite" id="cite-1" href="#ref-1">[1]</a> but later studies (in the context of Java)
- showed a considerable improvement in the ability to generate test oracles when documentation was included.
-<a class="cite" id="cite-2" href="#ref-2">[2]</a>
-
-> minimal prompt consisting solely of Javadoc comments can achieve performance comparable or even better than prompts that include maximum contextual information.
-
+ showed a considerable improvement in the ability to generate test oracles when documentation was included
+<a class="cite" id="cite-2" href="#ref-2">[2]</a>.
 I do not have time to dig
 deeper into the evidence here, but my experience, and those of some of my
 colleagues, is that having good design documentation seems to benefit
@@ -148,8 +145,8 @@ can then give LLMs and humans a stronger set of
 building blocks (a "vocabulary") to work with, reducing their
  overall efforts. But getting to this point requires thought and iteration.
 
-A last germane quote is from Guy Steele's 1998 OOPLSA keynote "Growing
-a language":
+A last germane quote is from Guy Steele's 1998 OOPLSA keynote ["Growing
+a language"](https://www.youtube.com/watch?v=_ahvzDzKdB0):
 
 > [..] a good programmer in these times does not just write programs. A good programmer builds a working vocabulary. In other words, a good programmer does language design, though not from scratch, but by building on the frame of a base language.
 
