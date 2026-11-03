@@ -325,7 +325,8 @@ strong {
   vertical-align: -0.4em;
   color: #458;
   opacity: 0.5;
-  margin-left: 0.08em;
+  margin-left: 0.25em;
+  margin-top: 0.25em;
 }
 
 /* Attribution line for the author(s) */
