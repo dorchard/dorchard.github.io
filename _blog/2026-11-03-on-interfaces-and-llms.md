@@ -84,6 +84,9 @@ Degenne, Kim Morrison, Oliver Nash and Adam Topaz) posit that
 > Knowledge isn’t worth having until it contributes to our
 > understanding; the value of a formalization comes from our ability to
 > use and interact with the data.
+>
+> Jeremy Avigad, Kevin Buzzard, Johan Commelin, Rémy Degenne, Kim Morrison, Oliver Nash and Adam Topaz
+> {: .quote-author}
 
 I believe the interface provided by
 any proof code seriously affects our ability to use and interact with
@@ -92,6 +95,9 @@ it, and to grow our understanding.  They go on to say:
 > Good formal
 > libraries will enable the positive vision we have for the future of
 > mathematical research.
+>
+> Jeremy Avigad et al.
+> {: .quote-author}
 
 The "good" here is exactly those interface
 designs that enable human understanding and flexible reuse of
@@ -110,6 +116,9 @@ A quote:
 > solution. We slice the problem into focused pieces, bind related data
 > and behaviour together, and—crucially—choose names that expose
 > intent.
+>
+> Unmesh Joshi
+> {: .quote-author}
 
 This takes us back to good interface design and how
 it emerges from the process of writing the
@@ -134,6 +143,9 @@ Another long quote:
 > cases or variations. In Domain-Driven Design (DDD) terms, this is
 > where we work with the domain model: a set of named abstractions that
 > reflect the business domain and carry precise meaning.
+>
+> Unmesh Joshi
+> {: .quote-author}
 
 This points to the key activities in defining our internal software
 interfaces. One can imagine trying to explicitly codify this in
@@ -149,6 +161,9 @@ A last germane quote is from Guy Steele's 1998 OOPLSA keynote ["Growing
 a language"](https://www.youtube.com/watch?v=_ahvzDzKdB0):
 
 > [..] a good programmer in these times does not just write programs. A good programmer builds a working vocabulary. In other words, a good programmer does language design, though not from scratch, but by building on the frame of a base language.
+>
+> Guy Steele
+> {: .quote-author}
 
 Part of designing the software interfaces in our code is exactly this
 process of growing a language: an internal, embedded, domain-specific
@@ -195,7 +210,7 @@ up a 'ubiquitous language' <a class="cite" id="cite-6" href="#ref-6">[6]</a>
 
 - Write design documentation, including what are the main values, principles, and goals within the design.
 
-No AI was used in the writing of this blog post.
+<p style='color:grey'>(No AI was used in the writing of this blog post).</p>
 
 ## References
 
