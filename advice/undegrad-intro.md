@@ -13,7 +13,7 @@ title: "Advice for undergraduates"
 
 * Take notes in lectures. It will really help you. There are lots of different approaches. Find something that works for you, but do it, and be a bit organised with it. It will help you learn a lot more, more easily.
 
-* You will get stuck. That is a good thing. Do not worry, but just work systematically through the material, write notes, try things, read error messages, and... ask for help:
+* You will get stuck. That is a good thing. Do not worry, but just work systematically through the material, write notes, try things, read error messages, and... ask for help.
 
 * Do not be afraid to ask for help. Seek help from your peers, the internet, your class supervisors, and your lecturers when you need it.
 
