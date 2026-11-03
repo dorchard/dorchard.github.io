@@ -85,7 +85,7 @@ Degenne, Kim Morrison, Oliver Nash and Adam Topaz) posit that
 > understanding; the value of a formalization comes from our ability to
 > use and interact with the data.
 >
-> Jeremy Avigad, Kevin Buzzard, Johan Commelin, Rémy Degenne, Kim Morrison, Oliver Nash and Adam Topaz
+> Jeremy Avigad et al.
 > {: .quote-author}
 
 I believe the interface provided by

@@ -315,24 +315,29 @@ strong {
   margin-bottom: 0;
 }
 
-/* Attribution line: closing quote mark followed by the author(s) */
-.blog-post-content blockquote p.quote-author {
-  text-align: right;
-  font-style: normal;
-  font-size: 0.9em;
-  color: #555;
-  margin-top: -0.3em;
-}
-
-.blog-post-content blockquote p.quote-author::before {
+/* Closing quote mark at the end of the last line of quoted text */
+.blog-post-content blockquote p:has(+ p.quote-author)::after {
   content: "\201D";
   font-family: Georgia, serif;
+  font-style: normal;
   font-size: 2.6em;
   line-height: 0;
   vertical-align: -0.35em;
   color: #458;
   opacity: 0.5;
-  margin-right: 0.25em;
+  margin-left: 0.1em;
+}
+
+/* Attribution line for the author(s) */
+.blog-post-content blockquote p.quote-author {
+  text-align: right;
+  font-style: normal;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.blog-post-content blockquote p.quote-author::before {
+  content: "\2014\00A0";
 }
 
 /* Highlighted pull-out statement */
