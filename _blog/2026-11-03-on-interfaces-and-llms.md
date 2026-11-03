@@ -127,7 +127,7 @@ it emerges from the process of writing the
 code ourselves, where continued iteration helps us to form ideas
 into something coherent and understandable by others. Domain-specific
 terminology may shape our interfaces and abstractions explicitly.
-Another long quote:
+Another quote:
 
 > I think of programming as having two deeply interwoven activities.
 >
