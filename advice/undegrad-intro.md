@@ -29,4 +29,4 @@ title: "Advice for undergraduates"
 
 * Use programming to understand maths, e.g., implement some of the ideas, write a program that uses the concepts.
 
-* E-mails. The professional world runs on e-mail. The University will communicate to you primarily via e-mail. Setup it up on your phone/laptop with notifications. E-mails have an informative subject, a greeting "Dear Dominic", use full sentences and standard grammar, and have a sign-off "Regards, Student".
+* E-mails. The professional world runs on e-mail. The University will communicate to you primarily via e-mail. Set up e-mail on your phone/computer (I recommend with notifications on your computer). E-mails have an informative subject, a greeting "Dear Dominic", use full sentences and standard grammar, and have a sign-off "Regards, Student".
