@@ -201,14 +201,14 @@ as a few non-exhaustive thoughts:
 - Be intentional about interface design: build in time in the development
 process for discovering abstractions and then reviewing/stabilsing abstractions;
 
-- "Make interfaces easy to use correctly and hard to use incorrectly" <a class="cite" id="cite-4" href="#ref-4">[4]</a>
+- "Make interfaces easy to use correctly and hard to use incorrectly" <a class="cite" id="cite-4" href="#ref-4">[4]</a>;
 
 - Exploit types if available to encode meaning and then enforce correct behaviour;
 
 - A good abstraction should be about more than just avoiding duplication <a class="cite" id="cite-5" href="#ref-5">[5]</a>;
 
 - Choose naming that reflects the domain as much as possible to build
-up a 'ubiquitous language' <a class="cite" id="cite-6" href="#ref-6">[6]</a>
+up a 'ubiquitous language' <a class="cite" id="cite-6" href="#ref-6">[6]</a>;
 
 - Write design documentation, including what are the main values, principles, and goals within the design.
 

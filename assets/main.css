@@ -320,12 +320,12 @@ strong {
   content: "\201D";
   font-family: Georgia, serif;
   font-style: normal;
-  font-size: 2.6em;
+  font-size: 3.2em;
   line-height: 0;
-  vertical-align: -0.35em;
+  vertical-align: -0.4em;
   color: #458;
   opacity: 0.5;
-  margin-left: 0.1em;
+  margin-left: 0.08em;
 }
 
 /* Attribution line for the author(s) */
