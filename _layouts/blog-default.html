@@ -7,6 +7,24 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic|PT+Sans:400,400italic,700,700italic" />
     <link rel="stylesheet" href="/assets/main.css" />
+    {% assign site_url = "https://dorchard.github.io" %}
+    {% assign page_desc = page.excerpt | default: page.description | strip_html | strip_newlines | strip | truncate: 300 %}
+    <meta name="description" content="{{ page_desc | escape }}">
+    <link rel="canonical" href="{{ page.url | prepend: site_url }}">
+    <meta property="og:site_name" content="Dominic Orchard">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page_desc | escape }}">
+    <meta property="og:url" content="{{ page.url | prepend: site_url }}">
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image | prepend: site_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ page.image | prepend: site_url }}">
+    {% else %}
+    <meta name="twitter:card" content="summary">
+    {% endif %}
+    <meta name="twitter:title" content="{{ page.title | escape }}">
+    <meta name="twitter:description" content="{{ page_desc | escape }}">
   </head>
   <body>
 
