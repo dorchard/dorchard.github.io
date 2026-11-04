@@ -483,5 +483,12 @@ strong {
   width: 100%;
   height: auto;
   border-radius: 5px;
+  margin-bottom: 0.6em;
+}
+
+/* Caption under the banner image */
+.blog-post-content p.post-caption {
+  text-align: center;
+  color: #458;
   margin-bottom: 1.5em;
 }

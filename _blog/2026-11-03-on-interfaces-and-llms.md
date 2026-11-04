@@ -8,6 +8,9 @@ excerpt: "Designing good interfaces for software, both external and internal, is
 
 ![Python code in an editor defining a class Process parameterised by a PortType and a Predicate](/assets/interfaces-pic.png){: .post-banner}
 
+Good interfaces communicate intent and ideas.
+{: .post-caption}
+
 Designing good interfaces for software, both external and internal, is
 hard.  By 'external', I mean the mechanisms by which users will
 compile/build/link (if needed) and run the software, how they will
@@ -36,8 +39,6 @@ analysis tools and compilers can also benefit from abstractions that
 expose more information about a program and provide increased
 modularisation, which helps with scalability.
 
-
-<p class="callout">Good interfaces communicate intent and ideas.</p>
 
 
 The role of documentation is also important here and has a non-trivial
