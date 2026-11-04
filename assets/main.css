@@ -476,3 +476,12 @@ strong {
   color: #555;
 }
 
+
+/* Full-width banner image at the top of a blog post */
+.blog-post-content img.post-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 1.5em;
+}

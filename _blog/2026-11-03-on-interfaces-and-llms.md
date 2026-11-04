@@ -6,6 +6,8 @@ categories: [programming, science, software engineering, llms]
 excerpt: "Designing good interfaces for software, both external and internal, is hard. This post considers the potential negative effects of LLMs in this context and discusses good interface design ideas."
 ---
 
+![Python code in an editor defining a class Process parameterised by a PortType and a Predicate](/assets/interfaces-pic.png){: .post-banner}
+
 Designing good interfaces for software, both external and internal, is
 hard.  By 'external', I mean the mechanisms by which users will
 compile/build/link (if needed) and run the software, how they will
