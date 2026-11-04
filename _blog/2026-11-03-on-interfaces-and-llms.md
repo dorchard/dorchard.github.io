@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "On the Role of Software Interfaces in the LLM context"
+title: "On the Role and Design of Software Interfaces in the LLM context"
 date: "2026-11-03"
 categories: [programming, science, software engineering, llms]
 excerpt: "Designing good interfaces for software, both external and internal, is hard. This post considers the potential negative effects of LLMs in this context and discusses good interface design ideas."
