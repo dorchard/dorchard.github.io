@@ -11,10 +11,11 @@ hard.  By 'external', I mean the mechanisms by which users will
 compile/build/link (if needed) and run the software, how they will
 interact with it, and how it will interoperate with other software
 systems.[^1] By 'internal', I
-mean the software architecture, the programming interfaces and
+mean the software architecture, and the programming interfaces and
 abstractions which delineate subcomponents of the code to enable
 reuse, de-duplication, understanding, and reasoning.
-A risk with significant LLM use for software
+
+A risk I fear with significant LLM use for software
 engineering is that badly designed interfaces are reinforced; rather
 than seeking more illuminating interface designs, the LLM papers
 over the cracks, burning through extra energy to find, and re-find,
@@ -22,7 +23,7 @@ ways to achieve a stated goal. The result may be both inefficient in
 its generation ('tokens burned') and inefficient in its final generated
 form, e.g., in terms of computational cost or maintenance cost
 (code bloat and obfuscation). Good interfaces instead aid
-understanding, expose the essential concepts behind a piece of
+understanding. They expose the essential concepts behind a piece of
 software in ways that stimulate new ideas and approaches, help avoid
 misunderstandings and bugs, and reduce effort in the code development
 process.
@@ -52,7 +53,7 @@ deeper into the evidence here, but my experience, and those of some of my
 colleagues, is that having good design documentation seems to benefit
 LLMs (improved quality and reduced time to solution).
 
-In the context of external interfaces, my own experience has been that
+In the context of external interfaces, my experience has been that
 LLMs can be very useful for working out how to get complex software
 stacks working and building, e.g., running scientific models that
 require a diversity of libraries, additional software, and HPC
@@ -61,27 +62,25 @@ appears to be a big win, offloading some human effort to the machine,
 at some additional energy cost downstream. In the computational
 science context, where a lot of time can be spent getting the models
 of other groups running, I think there can be a considerable productivity
-improvement here, especially in exploratory context. Removing the
-barriers around the building processes, and external interfaces, can
-even mean that more models can be explored and investigated from others' work.
+improvement here. Removing the
+barriers around the build processes and external interfaces 
+means that more models can be explored and investigated from others' work.
 
 However, at the internal, software level, I've found that LLMs
-(including at the frontier as of writing in October 2026) steer
+(including at the frontier as of writing in Autumn 2026) by default steer
 towards writing more and more code rather than trying to find good
 abstractions and interfaces. I usually find things work better if I
 design the architecture and interfaces largely myself, do the deep
 thinking about the design concepts and ideas, and then have the LLM
 assist in writing the 'inside' code, rather than the other way around.
-One could compare this with the observation that LLMs do not invent
-new 'mathematical objects' (i.e., abstractions!) in the way that
-mathematicians do.
 
+One could compare this with the observation that LLMs do not invent
+new 'mathematical objects' (i.e., abstractions) in the way that
+mathematicians do.
 Some aspects of this tension arise in the recent discussions around AI
-autoformalisation of mathematics in interactive theorem provers (see,
-e.g.,
-<a class="cite" id="cite-3" href="#ref-3">[3]</a>).
-The authors (Jeremy Avigad, Kevin Buzzard, Johan Commelin, Rémy
-Degenne, Kim Morrison, Oliver Nash and Adam Topaz) posit that
+autoformalisation of mathematics in interactive theorem provers.
+In a joint blog post <a class="cite" id="cite-3" href="#ref-3">[3]</a>, Jeremy Avigad, Kevin Buzzard, Johan Commelin, Rémy
+Degenne, Kim Morrison, Oliver Nash and Adam Topaz, posit that:
 
 > Knowledge isn’t worth having until it contributes to our
 > understanding; the value of a formalization comes from our ability to
@@ -92,7 +91,7 @@ Degenne, Kim Morrison, Oliver Nash and Adam Topaz) posit that
 
 I believe the interface provided by
 any proof code seriously affects our ability to use and interact with
-it, and to grow our understanding.  They go on to say:
+it, and thus to grow our understanding.  They go on to say:
 
 > Good formal
 > libraries will enable the positive vision we have for the future of
@@ -103,7 +102,7 @@ it, and to grow our understanding.  They go on to say:
 
 The "good" here is exactly those interface
 designs that enable human understanding and flexible reuse of
-existing ideas (proofs or code--which are really [the same thing](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)).
+existing ideas, whether proofs or code--which are really [the same thing](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence).
 
 Unmesh Joshi and Martin Fowler talked about issues around software
 design and LLMs in a curated conversation in 2025: [LLMs and Building
@@ -126,7 +125,7 @@ This takes us back to good interface design and how
 it emerges from the process of writing the
 code ourselves, where continued iteration helps us to form ideas
 into something coherent and understandable by others. Domain-specific
-terminology may shape our interfaces and abstractions explicitly.
+terminology may shape our interfaces and abstractions explicitly. 
 Another quote:
 
 > I think of programming as having two deeply interwoven activities.
@@ -156,7 +155,7 @@ discovery where one or more programmers or LLMs explores a few different
 designs and ideas, followed by a stabilisation process in which consensus
 around a single approach is built. The resulting stabilised abstractions
 can then give LLMs and humans a stronger set of
-building blocks (a "vocabulary") to work with, reducing their
+building blocks (a 'vocabulary') to work with, reducing their
  overall efforts. But getting to this point requires thought and iteration.
 
 A last germane quote is from Guy Steele's 1998 OOPLSA keynote ["Growing
@@ -176,14 +175,16 @@ certainly differ to what comes out of our own iterated thinking.
 Simply reviewing the output from LLMs is unlikely to lead to
 significant changes in the overall design once code has been written
 (something like the effect of a 'status quo bias', falling into a low-effort
-'rubber stamping' behaviour; Unmesh mentions this too, contrasting
-pair programming vs. passive PR reviews). This is not to say that
+'rubber stamping' behaviour).[^3] This is not to say that
 we must not use LLMs in this process, but my caution would be in
 letting the LLMs make all the design decisions
 without the human-in-the-loop to provide their knowledge, context,
 and expertise of the problem, and their overall aesthetic and technical
 design sense.
 
+Going back to the original point,
+if an LLM does all the work we risk embedding
+poor designs which later on impede further work.
 By giving serious consideration to software
 interfaces, both the internal and external, the end result
 is software that overall requires less effort to understand, use, maintain,
@@ -191,26 +192,27 @@ is software that overall requires less effort to understand, use, maintain,
  For LLMs, more effort equates to more electricity consumed, and
 [more data centre demand](https://www.bloomberg.com/news/articles/2026-10-28/us-data-center-buildout-risks-erasing-years-of-climate-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIxODQ4MywiZXhwIjoxNzkzODIzMjgzLCJhcnRpY2xlSWQiOiJUTk03WTFLSVAzSVAwMCIsImJjb25uZWN0SWQiOiJGM0VENDU5NTZFRjA0QjY5QTI0NTVBNTYxRDkyNkY5NiJ9.vaYGVNos-PgwrFAeFWxa9-gyGHRxRihCe_on05i2B3A&leadSource=article-gifting), the growth of which should be a serious concern for us all.
 
-Now actually how to design good interfaces is a huge topic and there
-is a lot that could be said here (there are lots of
-books on designing software architecture), so I'll leave this topic
-for another blog post perhaps. That said, a few thoughts were bashing around
-my head in the preparation of this blog post so I'll finish with them
-as a few non-exhaustive thoughts:
+Now, how to actually design good interfaces is a huge topic and there
+is a lot that could be said here, indeed there are lots of
+books on designing software architecture. I'll leave this topic
+for another blog post then. That said, a few thoughts were sloshing around
+my head in the preparation of this blog post so I'll finish with a few of these (non-exhaustive) thoughts:
 
 - Be intentional about interface design: build in time in the development
 process for discovering abstractions and then reviewing/stabilsing abstractions;
 
 - "Make interfaces easy to use correctly and hard to use incorrectly" <a class="cite" id="cite-4" href="#ref-4">[4]</a>;
 
-- Exploit types if available to encode meaning and then enforce correct behaviour;
+- Exploit types if available to encode meaning and then enforce the correct behaviour and
+expose incorrect behaviour;
 
 - A good abstraction should be about more than just avoiding duplication <a class="cite" id="cite-5" href="#ref-5">[5]</a>;
 
-- Choose naming that reflects the domain as much as possible to build
-up a 'ubiquitous language' <a class="cite" id="cite-6" href="#ref-6">[6]</a>;
+- Choose names and naming schemes that reflect the domain as much as possible to build
+up a 'ubiquitous language' / vocabulary. <a class="cite" id="cite-6" href="#ref-6">[6]</a>;
 
-- Write design documentation, including what are the main values, principles, and goals within the design.
+- Write design documentation, including what are the main values, principles, and goals of
+the project and its design.
 
 <p style='color:grey'>(No AI was used in the writing of this blog post).</p>
 
@@ -228,3 +230,5 @@ up a 'ubiquitous language' <a class="cite" id="cite-6" href="#ref-6">[6]</a>;
 [^1]: I am primarily not thinking about GUIs, although the same thinking can be applied there.
 
 [^2]: Though a point is made that "All the boilerplate required just to get the software running is all the accidental complexity. I think LLMs are good at reducing accidental complexity." They give the example of writing some code to connect two systems: "Need a Spring Boot service that talks to Kafka and logs with OpenTelemetry? An LLM can spit out a working template in seconds." But in this example the accidental complexity is not reduced; the complexity is still there, it was just outsourced. Any deficiencies in the interfaces (I am not claiming there are any in this example; I do not know these systems) still needs to be worked around by the LLM, and then the resulting code is still present and will need reviewing and reusing by others in the future.
+
+[^3]: Unmesh mentions this too, contrasting pair programming vs. passive PR reviews.
