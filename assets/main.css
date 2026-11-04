@@ -490,5 +490,13 @@ strong {
 .blog-post-content p.post-caption {
   text-align: center;
   color: #458;
+  margin-bottom: 0.2em;
+}
+
+/* Image credit and licence under the caption */
+.blog-post-content p.post-credit {
+  text-align: center;
+  font-size: 0.8em;
+  color: #666;
   margin-bottom: 1.5em;
 }
