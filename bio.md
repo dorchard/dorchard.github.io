@@ -1,11 +1,14 @@
+# Medium but fancier
 
+Prof. Dominic Orchard is a Research Professor in the Department of Computer Science and Technology at the University of Cambridge and Co-Director of the Institute of Computing for Climate Science (ICCS). A computer scientist specialising in programming languages, type systems, software verification, and computational modelling, he also holds an appointment at the University of Kent and is a Bye-Fellow at Queens’ College. His work, including the CamFort project and the Granule language, improves the correctness and performance of software, including large-scale scientific simulations and climate models. 
+ 
 # Medium
 
-Dominic's research focusses primarily on the theory and practice of programming languages, particular their analysis, semantics, and verification. He also works closely with climate scientists, applying computer science advancements to support their work. He is a co-director of the Institute of Computing for Climate Science at the University of Cambridge and a Senior Lecturer in the Programming Languages and Systems group at the University of Kent.
+Dominic's research focusses primarily on the theory and practice of programming languages, particular their analysis, semantics, and verification. He also works closely with climate scientists, applying computer science advancements to support their work. He is a co-director of the Institute of Computing for Climate Science at the University of Cambridge and a Reader in the Programming Languages and Systems group at the University of Kent.
 
 # Medium - alt
 
-Dominic is a computer scientist whose research focusses primarily on programming languages but he also works closely with climate scientists, applying computer science advancements to support their work through programming languages, tools, and systems. He is a co-director of the Institute of Computing for Climate Science at the University of Cambridge and a Senior Lecturer in the Programming Languages and Systems group at the University of Kent.
+Dominic is a computer scientist whose research focusses primarily on programming languages but he also works closely with climate scientists, applying computer science advancements to support their work through programming languages, tools, and systems. He is a co-director of the Institute of Computing for Climate Science at the University of Cambridge and a Reader in the Programming Languages and Systems group at the University of Kent.
 
 # With history
 
