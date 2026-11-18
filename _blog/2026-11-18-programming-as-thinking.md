@@ -18,8 +18,8 @@ Image by Dominic Orchard, licensed under [CC BY 4.0](https://creativecommons.org
 
 
 A colleague recently pointed me at this lovely article in the
-Economist, titled _AI often makes writing worse. (Even if it makes it
-better)_ <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes the following argument:
+Economist, titled "**AI often makes writing worse. (Even if it makes it
+better)**" <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes the following argument:
 
 > Real writing is not writing at all. It is thinking; specifically it
 > is thinking: “What do I think?”
