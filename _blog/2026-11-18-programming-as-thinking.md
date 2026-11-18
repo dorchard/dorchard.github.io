@@ -16,8 +16,6 @@ Based on a photo taken on an old smartphone, sharpened up by GPT-6.
 Image by Dominic Orchard, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 {: .post-credit}
 
-<br />
-
 A colleague recently pointed me at this lovely article in the
 Economist, titled "**AI often makes writing worse. (Even if it makes it
 better)**" <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes the following argument:
