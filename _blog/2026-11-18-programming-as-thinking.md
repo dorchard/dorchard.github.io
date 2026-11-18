@@ -6,6 +6,16 @@ categories: [programming, writing, llms]
 excerpt: "If writing is thinking, then so is programming (and so is making slides). Over reliance on AIs can therefore rob us of the chance to think."
 ---
 
+![A laptop and notebook at night](/assets/blog-thinking.png){: .post-banner}
+
+The 'bureau' where I did lots of coding, writing, and thinking as a postdoc back in 2014
+(Based on an old photo taken on an old smartphone, that GPT-6 sharpened
+up). {: .post-caption}
+
+Image by Dominic Orchard, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+{: .post-credit}
+
+
 A colleague recently pointed me at this lovely article in the
 Economist, titled _AI often makes writing worse. (Even if it makes it
 better)_ <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes the following argument:
@@ -61,7 +71,16 @@ some different writing strategies. (I have written [a whole list of
 them](https://dorchard.github.io/advice/writing-strategies.html), to help me and my students;
 useful when hitting writer's block I hope!)
 
-If writing is thinking, the same applies also to _programming_. We are in a world
+If writing is thinking, then I believe same applies also to _programming_. 
+I do not think this will be a controversial point (at least not
+amongst my computer science colleagues) but in the current
+AI summer, this idea seems to be getting lost, and can be missed
+out by those without training or a background in programming.
+
+Programming is thinking
+{: .callout}
+
+We are in a world
 where AI agents are writing large amounts of code, and people are wondering
 whether software engineering is a dying art with code increasingly
 becoming just an opaque box we do not need to, or indeed cannot reasonably, inspect.
@@ -99,7 +118,10 @@ help solve problems and design systems.
 So writing is thinking, and programming is thinking,
 and I think that a similar argument could be made for other kinds of
 'content production'. Perhaps a bit more of a parochial example,
-but for similar reasoning, I propose that _writing slides is thinking_.
+but for similar reasoning, I propose that:
+
+Writing slides is thinking
+{: .callout}
 
 I personally find writing slides for talks and lectures to be a hard
 slog, and it is a significant component of my job. But the process of
