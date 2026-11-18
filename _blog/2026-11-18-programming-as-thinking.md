@@ -8,7 +8,7 @@ excerpt: "If writing is thinking, then so is programming (and so is making slide
 
 ![A laptop and notebook at night](/assets/blog-thinking.png){: .post-banner}
 
-The 'bureau' where I did lots of thinking as a postdoc (circa 2014)
+The 'bureau' where I did lots of thinking as a postdoc (circa 2014).
 Based on an old photo taken on an old smartphone, that GPT-6 sharpened
 up.
 {: .post-caption}
@@ -27,7 +27,7 @@ better)_ <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes
 > The Economist
 > {: .quote-author}
 
-It goes on to quote Prof. Emma Smith (University of Oxford):"Often, 'you only really know what you think by writing it'". This reminded me of two other quotes which I have pinned in the
+It goes on to quote Prof. Emma Smith (University of Oxford): "Often, 'you only really know what you think by writing it'". This reminded me of two other quotes which I have pinned in the
 introduction page of a "team" repository that I share with all my students and postdocs:
 
 > If you're thinking without writing, you only think you're
