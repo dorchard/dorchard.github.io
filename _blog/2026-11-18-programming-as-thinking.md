@@ -34,12 +34,12 @@ introduction page of a "team" repository that I share with all my students and p
 > thinking. [...] Everyone thinks they think. If you don't write down
 > your thoughts, you are fooling yourself.
 >
-> Leslie Lamport, creator of LaTeX (a document preparation system)
+> Leslie Lamport, creator of LaTeX.
 > {: .quote-author}
 
 > Writing is Nature's way of showing you how sloppy your thinking is.
 >
-> Dick Guindon, cartoonist
+> Dick Guindon, cartoonist.
 > {: .quote-author}
 
 This also aligns with the advice Simon Peyton Jones gives, that
