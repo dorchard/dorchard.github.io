@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Writing is thinking, programming is thinking"
+title: "Writing is thinking, and programming is thinking too."
 date: "2026-11-18"
 categories: [programming, writing, llms]
 excerpt: "If writing is thinking, then so is programming (and so is making slides). Over reliance on AIs can therefore rob us of the chance to think."
@@ -8,9 +8,10 @@ excerpt: "If writing is thinking, then so is programming (and so is making slide
 
 ![A laptop and notebook at night](/assets/blog-thinking.png){: .post-banner}
 
-The 'bureau' where I did lots of coding, writing, and thinking as a postdoc back in 2014
-(Based on an old photo taken on an old smartphone, that GPT-6 sharpened
-up). {: .post-caption}
+The 'bureau' where I did lots of thinking as a postdoc (circa 2014)
+Based on an old photo taken on an old smartphone, that GPT-6 sharpened
+up.
+{: .post-caption}
 
 Image by Dominic Orchard, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 {: .post-credit}
