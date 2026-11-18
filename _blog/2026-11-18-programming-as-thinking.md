@@ -27,14 +27,7 @@ better)_ <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includes
 > The Economist
 > {: .quote-author}
 
-It goes on to quote Prof. Emma Smith:
-
-> Often, "you only really know what you think by writing it"
-> 
-> Prof. Emma Smith (University of Oxford)
-> {: .quote-author}
-
-This reminded me of two other quotes which I have pinned in the
+It goes on to quote Prof. Emma Smith (University of Oxford):"Often, 'you only really know what you think by writing it'". This reminded me of two other quotes which I have pinned in the
 introduction page of a "team" repository that I share with all my students and postdocs:
 
 > If you're thinking without writing, you only think you're
@@ -56,7 +49,7 @@ what evidence is needed. Writing opens up a way to have a dialogue
 with others who can critique and collaborate on the idea.
 
 In all of these quotes, people are tapping into the idea that many
-people have discovered and discussed, that the act of writing gives
+people have discovered and discussed<a class="cite" id="cite-3" href="#ref-3">[3]</a><a class="cite" id="cite-4" href="#ref-4">[4]</a><a class="cite" id="cite-5" href="#ref-5">[5]</a><a class="cite" id="cite-6" href="#ref-6">[6]</a>, that the act of writing gives
 you a chance to really think about an idea, problem, or argument.
 Writing helps you generate new ideas, deepens your exploration of the problem
  or ideas, and helps you to understand how to evaluate it.
@@ -85,8 +78,7 @@ We are in a world
 where AI agents are writing large amounts of code, and people are wondering
 whether software engineering is a dying art with code increasingly
 becoming just an opaque box we do not need to, or indeed cannot reasonably, inspect.
-But just as 'writing is thinking' <a class="cite" id="cite-3" href="#ref-3">[3]</a><a class="cite" id="cite-4" href="#ref-4">[4]</a><a class="cite" id="cite-5" href="#ref-5">[5]</a><a class="cite" id="cite-6" href="#ref-6">[6]</a>
-(yes, lots of people have investigated this over the ages), programming is thinking too! At least,
+But just as writing is thinking, _programming is thinking_ too! At least,
 it can be. Many times I've grappled with a problem
 or idea, from a variety of domains, by writing code about it. 
 I often tell undergraduate students to
