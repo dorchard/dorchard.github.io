@@ -93,7 +93,7 @@ intuitive grasp of the ideas. By programming some concept or theory, the student
 > George Forsythe
 > {: .quote-author}
 
-<span style='color:#800'>(I couldn't find the origin for the quote but it is mentioned
+<span style='color:#888'>(I couldn't find the origin for the quote but it is mentioned
 in a _Communications of the ACM_ interview with Donald Knuth which touches on similar ideas <a class="cite" id="cite-7" href="#ref-7">[7]</a>.)</span>
 
 The point is that computers (in their traditional way of working)
