@@ -49,7 +49,7 @@ what evidence is needed. Writing opens up a way to have a dialogue
 with others who can critique and collaborate on the idea.
 
 In all of these quotes, people are tapping into the idea that many
-people have discovered and discussed<a class="cite" id="cite-3" href="#ref-3">[3]</a><a class="cite" id="cite-4" href="#ref-4">[4]</a><a class="cite" id="cite-5" href="#ref-5">[5]</a><a class="cite" id="cite-6" href="#ref-6">[6]</a>, that the act of writing gives
+people have discovered and discussed <a class="cite" id="cite-3" href="#ref-3">[3]</a><a class="cite" id="cite-4" href="#ref-4">[4]</a><a class="cite" id="cite-5" href="#ref-5">[5]</a><a class="cite" id="cite-6" href="#ref-6">[6]</a>, that the act of writing gives
 you a chance to really think about an idea, problem, or argument.
 Writing helps you generate new ideas, deepens your exploration of the problem
  or ideas, and helps you to understand how to evaluate it.
@@ -150,8 +150,8 @@ Let's keep thinking!
   <li id="ref-2">Simon Peyton Jones. <a href="https://www.robots.ox.ac.uk/~phst/PhD/writing-a-paper-slides.pdf">How to write a great research paper</a>. Slides. <a href="#cite-2" class="cite-back" title="Back to text">↩</a></li>
   <li id="ref-3">Keith Oatley and Maja Djikic. <a href="https://doi.org/10.1037/1089-2680.12.1.9">Writing as Thinking</a>. <em>Review of General Psychology</em>, 12(1), 9–27, 2008. <a href="#cite-3" class="cite-back" title="Back to text">↩</a></li>
   <li id="ref-4">Richard Menary. <a href="https://doi.org/10.1016/j.langsci.2007.01.005">Writing as thinking</a>. <em>Language Sciences</em>, 29(5), 621–632, 2007. <a href="#cite-4" class="cite-back" title="Back to text">↩</a></li>
-  <li id="ref-5"><a href="https://www.proquest.com/openview/1e72778b1cd1f2c9ff4a9f4743c1356c/1">ProQuest article</a>. <a href="#cite-5" class="cite-back" title="Back to text">↩</a></li>
-  <li id="ref-6">Robert Retherford. <a href="https://tesl-ej.org/wordpress/issues/volume2/ej08/ej08r3/">Review of <em>Writing as a Thinking Process</em> by Mary S. Lawrence (University of Michigan Press, 1996)</a>. <em>TESL-EJ</em>, 2(4), 1997. <a href="#cite-6" class="cite-back" title="Back to text">↩</a></li>
+  <li id="ref-5">Hans Sluga. <a href="https://www.proquest.com/openview/1e72778b1cd1f2c9ff4a9f4743c1356c/1">Thinking as Writing</a>. <em>Grazer Philosophische Studien</em>, 33, 115, 1989. <a href="#cite-5" class="cite-back" title="Back to text">↩</a></li>
+  <li id="ref-6">Mary S. Lawrence <a href="https://tesl-ej.org/wordpress/issues/volume2/ej08/ej08r3/">Review of <em>Writing as a Thinking Process</em></a>. <em>TESL-EJ</em>, 2(4), 1996. <a href="#cite-6" class="cite-back" title="Back to text">↩</a></li>
   <li id="ref-7">Donald Knuth. <a href="https://cacm.acm.org/opinion/interview-donald-knuth-a-lifes-work-interrupted/">Interview: Donald Knuth: A Life's Work Interrupted</a>. <em>Communications of the ACM</em>, 51(8), 31–35, 2008. <a href="#cite-7" class="cite-back" title="Back to text">↩</a></li>
   <li id="ref-8">Jeannette M. Wing. <a href="https://doi.org/10.1145/1118178.1118215">Computational thinking</a>. <em>Communications of the ACM</em>, 49(3), 33–35, 2006. <a href="#cite-8" class="cite-back" title="Back to text">↩</a></li>
 </ol>
