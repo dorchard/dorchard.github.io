@@ -42,17 +42,17 @@ introduction page of a "team" repository that I share with all my students and p
 > Dick Guindon, cartoonist.
 > {: .quote-author}
 
-This also aligns with the advice Simon Peyton Jones gives, that
-as soon as you have an idea, you should start writing the paper about it <a class="cite" id="cite-2" href="#ref-2">[2]</a>.
-Why? Because it forces you to confront what you don't yet understand and
-what evidence is needed. Writing opens up a way to have a dialogue
-with others who can critique and collaborate on the idea.
-
 In all of these quotes, people are tapping into the idea that many
 people have discovered and discussed <a class="cite" id="cite-3" href="#ref-3">[3]</a><a class="cite" id="cite-4" href="#ref-4">[4]</a><a class="cite" id="cite-5" href="#ref-5">[5]</a><a class="cite" id="cite-6" href="#ref-6">[6]</a>, that the act of writing gives
 you a chance to really think about an idea, problem, or argument.
 Writing helps you generate new ideas, deepens your exploration of the problem
  or ideas, and helps you to understand how to evaluate it.
+
+This aligns with the advice Simon Peyton Jones gives, that
+as soon as you have an idea, you should start writing the paper about it <a class="cite" id="cite-2" href="#ref-2">[2]</a>.
+Why? Because it forces you to confront what you don't yet understand and
+what evidence is needed. Writing opens up a way to have a dialogue
+with others who can critique and collaborate on the idea.
 
 Going back to the Economist article, their point is that if we give
 writing over to AI we lose that opportunity to think for ourselves. I
