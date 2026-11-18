@@ -7,6 +7,8 @@ image: /assets/blog-thinking.png
 excerpt: "If writing is thinking, then so is programming (and so is making slides). Over-reliance on AI can therefore rob us of the chance to think."
 ---
 
+<br />
+
 ![A laptop and notebook at night](/assets/blog-thinking.png){: .post-banner}
 
 The 'bureau' where I did lots of thinking as a postdoc (circa 2014).
@@ -15,6 +17,8 @@ Based on a photo taken on an old smartphone, sharpened up by GPT-6.
 
 Image by Dominic Orchard, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 {: .post-credit}
+
+<br />
 
 A colleague recently pointed me at this lovely article in the
 Economist, titled "**AI often makes writing worse. (Even if it makes it
