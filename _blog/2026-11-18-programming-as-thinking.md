@@ -3,6 +3,7 @@ layout: blog-post
 title: "Writing is thinking, and programming is thinking too"
 date: "2026-11-18"
 categories: [programming, writing, llms]
+image: /assets/blog-thinking.png
 excerpt: "If writing is thinking, then so is programming (and so is making slides). Over-reliance on AI can therefore rob us of the chance to think."
 ---
 
