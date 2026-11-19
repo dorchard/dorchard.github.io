@@ -32,6 +32,11 @@ sitemap:
       <li><a href="#{{ category | slugify }}" class="filter-link" data-filter="category-{{ category | slugify }}">{{ category }}</a></li>
       {% endfor %}
     </ul>
+
+    <h3>Subscribe</h3>
+    <ul class="filter-list">
+      <li><a href="/feed.xml">Atom feed</a></li>
+    </ul>
   </div>
 
   <div class="blog-main">
