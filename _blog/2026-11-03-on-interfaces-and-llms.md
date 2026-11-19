@@ -7,7 +7,7 @@ image: /assets/interfaces-pic.png
 excerpt: "Designing good interfaces for software, both external and internal, is hard. This post considers the potential negative effects of LLMs in this context and discusses good interface design ideas."
 ---
 
-![An abstract image of code showing some python interfaces with types](/assets/interfaces-pic.png){: .post-banner}
+![An abstract image of code showing some python interfaces with types](https://dorchard.github.io/assets/interfaces-pic.png){: .post-banner}
 
 Good interfaces communicate intent and ideas.
 {: .post-caption}

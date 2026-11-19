@@ -9,7 +9,7 @@ excerpt: "If writing is thinking, then so is programming (and so is making slide
 
 <br />
 
-![A laptop and notebook at night](/assets/blog-thinking.png){: .post-banner}
+![A laptop and notebook at night](https://dorchard.github.io/assets/blog-thinking.png){: .post-banner}
 
 The 'bureau' where I did lots of thinking as a postdoc (circa 2014).
 Based on a photo taken on an old smartphone, sharpened up by GPT-6.
