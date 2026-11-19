@@ -37,7 +37,7 @@ introductory page of a "team" repository that I share with all my students and p
 > thinking. [...] Everyone thinks they think. If you don't write down
 > your thoughts, you are fooling yourself.
 >
-> Leslie Lamport, creator of LaTeX
+> Leslie Lamport (Turing Award winner 2013, creator of LaTeX)
 > {: .quote-author}
 
 > Writing is Nature's way of showing you how sloppy your thinking is.
@@ -97,7 +97,9 @@ intuitive grasp of the ideas. By programming some concept or theory, the student
 > {: .quote-author}
 
 <span style='color:#888'>(I couldn't find the origin of the quote, but it is mentioned
-in a _Communications of the ACM_ interview with Donald Knuth which touches on similar ideas <a class="cite" id="cite-7" href="#ref-7">[7]</a>.)</span>
+in a _Communications of the ACM_ interview with Donald Knuth 
+(Turing Award winner 1974, _author of The Art of Computer Programming_)
+which touches on similar ideas <a class="cite" id="cite-7" href="#ref-7">[7]</a>.)</span>
 
 The point is that computers (in their traditional way of working)
 are very stupid. To 'explain an idea to them'
