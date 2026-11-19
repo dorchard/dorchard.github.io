@@ -8,6 +8,11 @@ sitemap:
 
 <div class="blog-container">
   <div class="blog-sidebar">
+    <h3>Subscribe</h3>
+    <ul class="filter-list">
+      <li><a href="/feed.xml">Atom feed</a></li>
+    </ul>
+
     <h3>Filter by Year</h3>
     <ul id="year-filter" class="filter-list">
       <li><a href="#all" class="filter-link active" data-filter="all">All</a></li>
@@ -31,11 +36,6 @@ sitemap:
       {% for category in sorted_categories %}
       <li><a href="#{{ category | slugify }}" class="filter-link" data-filter="category-{{ category | slugify }}">{{ category }}</a></li>
       {% endfor %}
-    </ul>
-
-    <h3>Subscribe</h3>
-    <ul class="filter-list">
-      <li><a href="/feed.xml">Atom feed</a></li>
     </ul>
   </div>
 

@@ -183,6 +183,18 @@ strong {
   margin-left: 1em;
 }
 
+.post-subscribe {
+  margin-left: 1em;
+  color: #999;
+  font-size: 0.85em;
+  text-decoration: none;
+}
+
+.post-subscribe:hover {
+  color: #458;
+  text-decoration: underline;
+}
+
 .category-tag {
   background-color: #f0f0f0;
   padding: 2px 8px;
