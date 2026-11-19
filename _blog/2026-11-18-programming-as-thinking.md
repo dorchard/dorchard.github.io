@@ -30,8 +30,8 @@ better)**" <a class="cite" id="cite-1" href="#ref-1">[1]</a>. The article includ
 > The Economist
 > {: .quote-author}
 
-It goes on to quote Prof. Emma Smith (University of Oxford): "Often, 'you only really know what you think by writing it'". This reminded me of two other quotes which I have pinned in the
-introduction page of a "team" repository that I share with all my students and postdocs:
+It goes on to quote Prof. Emma Smith (University of Oxford): "_Often, 'you only really know what you think by writing it'_". This reminded me of two other quotes which I have pinned in the
+introductory page of a "team" repository that I share with all my students and postdocs:
 
 > If you're thinking without writing, you only think you're
 > thinking. [...] Everyone thinks they think. If you don't write down
