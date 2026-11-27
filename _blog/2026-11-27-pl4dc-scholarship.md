@@ -23,7 +23,7 @@ interactive geometry applications to manually create the finished building desig
  solution space of alternatives or other forms of optimisation.
 
 ![Facade rendering and a sample visual program for generating a component,
-taken from an early draft of [1]](https://dorchard.github.io/assets/blog-pl4dc.png){: .post-banner}
+taken from an early draft of <a class="cite" id="cite-2" href="#ref-2">[2]</a>.](https://dorchard.github.io/assets/blog-pl4dc.png){: .post-banner}
 
 At the heart of DC is programming, which must then be expressed in some programming language or languages. Both textual programming languages and visual programming  languages are widely deployed in this space; some of these are general purpose and others are specialised, used only in these domains.
 
