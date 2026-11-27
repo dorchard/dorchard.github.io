@@ -1,10 +1,10 @@
 ---
 layout: blog-post
-title: "3.5 year PhD scholarship on Programming languages for Design Computation, University of Kent"
+title: "3.5 year PhD scholarship on Programming languages for Design Computation, University of Kent (deadline Dec 22 2026)"
 date: "2026-11-18"
-categories: [phd, advert]
-image: /assets/blog-thinking.png
-excerpt: "I have a PhD scholarship available at the University of Kent to work on programming languages for design computation; April 2027 start."
+categories: [phd-advert, programming-languages]
+image: /assets/blog-pl4dc.png
+excerpt: "Scholarship available at the University of Kent to work with me on programming languages for design computation; April 2027 start."
 ---
 
 <br />
@@ -13,7 +13,6 @@ Design Computation (DC) is an approach in architecture,
 engineering, and construction  that leverages computation to
 generate building designs, manage the associated data,
 and evaluate design decisions <a class="cite" id="cite-1" href="#ref-1">[1]</a>.
-
 DC differs to CAD-based design modelling, where the designer uses
 interactive geometry applications to manually create the finished building design. With this form of direct modelling there are no opportunities
  to record the rationale for the design and any subsequent design exploration requires further arduous manual edits. 
